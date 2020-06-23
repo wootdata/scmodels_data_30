@@ -1,0 +1,1491 @@
+ID Tag: IDST
+Version: 10
+Name: "gsg9.mdl"
+Length: 1132672
+
+Eye Position: -0.000000 0.000000 0.000000
+Min: 0.000000 0.000000 0.000000
+Max: 0.000000 0.000000 0.000000
+Bounding Box Min: 0.000000 0.000000 0.000000
+Bounding Box Max: 0.000000 0.000000 0.000000
+Flags: 0
+
+Number of Bones: 30
+
+Bone 1 Name: "Bip01"
+Bone 1 Parent: -1
+Bone 1 Flags: 0
+Bone 1 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 1 Value: 0.233849 0.368164 39.526119 0.000000 0.000000 -1.570795
+Bone 1 Scale: 0.003906 0.003906 0.003906 0.000047 0.000095 0.000095
+
+Bone 2 Name: "Bip01 Pelvis"
+Bone 2 Parent: 0
+Bone 2 Flags: 0
+Bone 2 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 2 Value: -0.000004 0.000000 0.000000 -1.570795 -1.570451 0.000000
+Bone 2 Scale: 0.003906 0.003906 0.003906 0.000048 0.000012 0.000048
+
+Bone 3 Name: "Bip01 L Leg"
+Bone 3 Parent: 1
+Bone 3 Flags: 0
+Bone 3 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 3 Value: -0.000005 0.000007 3.713254 -3.139066 0.017358 3.117144
+Bone 3 Scale: 0.003906 0.003906 0.003906 0.000096 0.000096 0.000096
+
+Bone 4 Name: "Bip01 L Leg1"
+Bone 4 Parent: 2
+Bone 4 Flags: 0
+Bone 4 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 4 Value: 18.045723 0.000000 0.000000 0.000000 0.000000 -0.127551
+Bone 4 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000074
+
+Bone 5 Name: "Bip01 L Foot"
+Bone 5 Parent: 3
+Bone 5 Flags: 0
+Bone 5 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 5 Value: 17.597597 0.000000 0.000000 -0.002950 0.017289 0.103055
+Bone 5 Scale: 0.003906 0.003906 0.003906 0.000025 0.000025 0.000046
+
+Bone 6 Name: "Bip01 R Leg"
+Bone 6 Parent: 1
+Bone 6 Flags: 0
+Bone 6 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 6 Value: 0.000005 -0.000003 -3.713254 3.139069 -0.017355 3.117144
+Bone 6 Scale: 0.003906 0.003906 0.003906 0.000096 0.000096 0.000096
+
+Bone 7 Name: "Bip01 R Leg1"
+Bone 7 Parent: 5
+Bone 7 Flags: 0
+Bone 7 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 7 Value: 18.045721 0.000000 0.000000 0.000000 0.000000 -0.127551
+Bone 7 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000079
+
+Bone 8 Name: "Bip01 R Foot"
+Bone 8 Parent: 6
+Bone 8 Flags: 0
+Bone 8 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 8 Value: 17.597597 0.000000 0.000000 0.002950 -0.017289 0.103055
+Bone 8 Scale: 0.003906 0.003906 0.003906 0.000017 0.000020 0.000034
+
+Bone 9 Name: "Bip01 Spine"
+Bone 9 Parent: 1
+Bone 9 Flags: 0
+Bone 9 Bonecontroller: -1 -1 -1 0 -1 -1
+Bone 9 Value: 1.293670 0.684478 -0.000001 -0.000004 -0.000001 0.114185
+Bone 9 Scale: 0.003906 0.003906 0.003906 0.000017 0.000012 0.000017
+
+Bone 10 Name: "Bip01 Spine1"
+Bone 10 Parent: 8
+Bone 10 Flags: 0
+Bone 10 Bonecontroller: -1 -1 -1 1 -1 -1
+Bone 10 Value: 5.309685 -0.003834 0.000000 0.000000 0.000000 -0.069778
+Bone 10 Scale: 0.003906 0.003906 0.003906 0.000016 0.000012 0.000018
+
+Bone 11 Name: "Bip01 Spine2"
+Bone 11 Parent: 9
+Bone 11 Flags: 0
+Bone 11 Bonecontroller: -1 -1 -1 2 -1 -1
+Bone 11 Value: 4.826790 -0.004591 0.000000 0.000000 0.000000 -0.095944
+Bone 11 Scale: 0.003906 0.003906 0.003906 0.000019 0.000012 0.000022
+
+Bone 12 Name: "Bip01 Spine3"
+Bone 12 Parent: 10
+Bone 12 Flags: 0
+Bone 12 Bonecontroller: -1 -1 -1 3 -1 -1
+Bone 12 Value: 5.792767 -0.005304 0.000000 0.000000 0.000000 0.017444
+Bone 12 Scale: 0.003906 0.003906 0.003906 0.000018 0.000012 0.000021
+
+Bone 13 Name: "Bip01 Neck"
+Bone 13 Parent: 11
+Bone 13 Flags: 0
+Bone 13 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 13 Value: 6.662322 -0.001452 0.000000 0.000000 -0.000001 0.471000
+Bone 13 Scale: 0.003906 0.003906 0.003906 0.000012 0.000014 0.000028
+
+Bone 14 Name: "Bip01 Head"
+Bone 14 Parent: 12
+Bone 14 Flags: 0
+Bone 14 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 14 Value: 2.046984 0.000001 0.000000 0.000000 0.000000 -0.157798
+Bone 14 Scale: 0.003906 0.003906 0.003906 0.000043 0.000030 0.000061
+
+Bone 15 Name: "Bip01 L Arm"
+Bone 15 Parent: 12
+Bone 15 Flags: 0
+Bone 15 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 15 Value: -2.869899 1.399632 4.140401 -0.725899 -1.306119 -2.905046
+Bone 15 Scale: 0.003906 0.003906 0.003906 0.000096 0.000030 0.000096
+
+Bone 16 Name: "Bip01 R Arm"
+Bone 16 Parent: 12
+Bone 16 Flags: 0
+Bone 16 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 16 Value: -2.869899 1.399667 -4.140396 0.725877 1.306121 -2.905067
+Bone 16 Scale: 0.003906 0.003906 0.003906 0.000096 0.000026 0.000096
+
+Bone 17 Name: "Bip01 R Arm1"
+Bone 17 Parent: 15
+Bone 17 Flags: 0
+Bone 17 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 17 Value: 4.972047 0.000000 0.000000 -0.230698 -1.265796 0.056122
+Bone 17 Scale: 0.003906 0.003906 0.003906 0.000094 0.000080 0.000067
+
+Bone 18 Name: "Bip01 L Arm1"
+Bone 18 Parent: 14
+Bone 18 Flags: 0
+Bone 18 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 18 Value: 3.602411 0.000000 0.000002 0.067582 1.097666 -0.085728
+Bone 18 Scale: 0.003906 0.003906 0.003906 0.000085 0.000080 0.000091
+
+Bone 19 Name: "Bip01 L Arm2"
+Bone 19 Parent: 17
+Bone 19 Flags: 0
+Bone 19 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 19 Value: 10.711312 0.000000 -0.000001 0.000000 0.000000 -0.383260
+Bone 19 Scale: 0.003906 0.003906 0.003906 0.000018 0.000025 0.000068
+
+Bone 20 Name: "Bip01 L Hand"
+Bone 20 Parent: 18
+Bone 20 Flags: 0
+Bone 20 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 20 Value: 9.047893 0.000000 -0.000001 -1.594330 -0.119757 0.088828
+Bone 20 Scale: 0.003906 0.003906 0.003906 0.000096 0.000094 0.000053
+
+Bone 21 Name: "Bip01 L Finger0"
+Bone 21 Parent: 19
+Bone 21 Flags: 0
+Bone 21 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 21 Value: 2.366784 0.171891 -1.682508 0.078191 0.460523 0.103806
+Bone 21 Scale: 0.003906 0.003906 0.003906 0.000095 0.000088 0.000050
+
+Bone 22 Name: "Bip01 L Finger01"
+Bone 22 Parent: 20
+Bone 22 Flags: 0
+Bone 22 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 22 Value: 0.928314 0.000001 0.000000 0.000000 0.000000 0.000000
+Bone 22 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000044
+
+Bone 23 Name: "Bip01 L Finger1"
+Bone 23 Parent: 19
+Bone 23 Flags: 0
+Bone 23 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 23 Value: 4.076894 -0.386308 -0.044143 -0.003080 -0.043510 0.052444
+Bone 23 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000042
+
+Bone 24 Name: "Bip01 L Finger11"
+Bone 24 Parent: 22
+Bone 24 Flags: 0
+Bone 24 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 24 Value: 1.389626 -0.000001 0.000000 0.000000 0.000000 0.165647
+Bone 24 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000047
+
+Bone 25 Name: "Bip01 R Arm2"
+Bone 25 Parent: 16
+Bone 25 Flags: 0
+Bone 25 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 25 Value: 10.711309 0.000000 0.000001 0.000000 0.000000 -0.383260
+Bone 25 Scale: 0.003906 0.003906 0.003906 0.000013 0.000023 0.000077
+
+Bone 26 Name: "Bip01 R Hand"
+Bone 26 Parent: 24
+Bone 26 Flags: 0
+Bone 26 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 26 Value: 9.047892 -0.000001 0.000000 1.594330 0.119757 0.088828
+Bone 26 Scale: 0.003906 0.003906 0.003906 0.000071 0.000096 0.000050
+
+Bone 27 Name: "Bip01 R Finger0"
+Bone 27 Parent: 25
+Bone 27 Flags: 0
+Bone 27 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 27 Value: 2.366782 0.171890 1.682509 -0.078191 -0.460523 0.103806
+Bone 27 Scale: 0.003906 0.003906 0.003906 0.000096 0.000031 0.000025
+
+Bone 28 Name: "Bip01 R Finger01"
+Bone 28 Parent: 26
+Bone 28 Flags: 0
+Bone 28 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 28 Value: 0.928314 0.000000 0.000000 0.000000 0.000000 0.000000
+Bone 28 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000022
+
+Bone 29 Name: "Bip01 R Finger1"
+Bone 29 Parent: 25
+Bone 29 Flags: 0
+Bone 29 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 29 Value: 4.076893 -0.386308 0.044143 0.003080 0.043510 0.052444
+Bone 29 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000026
+
+Bone 30 Name: "Bip01 R Finger11"
+Bone 30 Parent: 28
+Bone 30 Flags: 0
+Bone 30 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 30 Value: 1.389626 0.000001 0.000000 0.000000 0.000000 0.165647
+Bone 30 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000038
+
+Number of Bone Controllers: 4
+
+Bone Controller 1 Bone: 8
+Bone Controller 1 Type: 8
+Bone Controller 1 Start: -30.000000
+Bone Controller 1 End: 30.000000
+Bone Controller 1 Rest: 0
+Bone Controller 1 Index: 0
+
+Bone Controller 2 Bone: 9
+Bone Controller 2 Type: 8
+Bone Controller 2 Start: -30.000000
+Bone Controller 2 End: 30.000000
+Bone Controller 2 Rest: 0
+Bone Controller 2 Index: 1
+
+Bone Controller 3 Bone: 10
+Bone Controller 3 Type: 8
+Bone Controller 3 Start: -30.000000
+Bone Controller 3 End: 30.000000
+Bone Controller 3 Rest: 0
+Bone Controller 3 Index: 2
+
+Bone Controller 4 Bone: 11
+Bone Controller 4 Type: 8
+Bone Controller 4 Start: -30.000000
+Bone Controller 4 End: 30.000000
+Bone Controller 4 Rest: 0
+Bone Controller 4 Index: 3
+
+Number of Hitboxes: 20
+
+Hitbox 1 Bone: 1
+Hitbox 1 Group: 3
+Hitbox 1 Bounding Box Min: -4.690000 -4.440000 -6.750000
+Hitbox 1 Bounding Box Max: 4.000000 5.560000 6.750000
+
+Hitbox 2 Bone: 2
+Hitbox 2 Group: 6
+Hitbox 2 Bounding Box Min: 2.660000 -3.690000 -3.090000
+Hitbox 2 Bounding Box Max: 18.160000 4.880000 3.310000
+
+Hitbox 3 Bone: 3
+Hitbox 3 Group: 6
+Hitbox 3 Bounding Box Min: 0.380000 -3.970000 -2.840000
+Hitbox 3 Bounding Box Max: 17.600000 4.000000 2.940000
+
+Hitbox 4 Bone: 4
+Hitbox 4 Group: 6
+Hitbox 4 Bounding Box Min: -0.590000 -2.340000 -2.630000
+Hitbox 4 Bounding Box Max: 3.790000 8.000000 2.190000
+
+Hitbox 5 Bone: 5
+Hitbox 5 Group: 7
+Hitbox 5 Bounding Box Min: 2.470000 -3.690000 -3.160000
+Hitbox 5 Bounding Box Max: 18.129999 4.880000 3.380000
+
+Hitbox 6 Bone: 6
+Hitbox 6 Group: 7
+Hitbox 6 Bounding Box Min: 0.310000 -3.970000 -2.840000
+Hitbox 6 Bounding Box Max: 17.600000 3.940000 2.970000
+
+Hitbox 7 Bone: 7
+Hitbox 7 Group: 7
+Hitbox 7 Bounding Box Min: -0.560000 -2.340000 -2.190000
+Hitbox 7 Bounding Box Max: 3.810000 8.000000 2.660000
+
+Hitbox 8 Bone: 9
+Hitbox 8 Group: 3
+Hitbox 8 Bounding Box Min: -3.250000 -5.500000 -5.500000
+Hitbox 8 Bounding Box Max: 4.830000 5.500000 5.500000
+
+Hitbox 9 Bone: 10
+Hitbox 9 Group: 2
+Hitbox 9 Bounding Box Min: -0.060000 -5.530000 -7.590000
+Hitbox 9 Bounding Box Max: 8.000000 7.000000 7.590000
+
+Hitbox 10 Bone: 11
+Hitbox 10 Group: 2
+Hitbox 10 Bounding Box Min: -2.250000 -6.810000 -6.310000
+Hitbox 10 Bounding Box Max: 6.500000 5.090000 6.310000
+
+Hitbox 11 Bone: 12
+Hitbox 11 Group: 2
+Hitbox 11 Bounding Box Min: -3.110000 -1.500000 -3.000000
+Hitbox 11 Bounding Box Max: 2.050000 3.500000 3.000000
+
+Hitbox 12 Bone: 13
+Hitbox 12 Group: 1
+Hitbox 12 Bounding Box Min: 0.090000 -3.660000 -3.000000
+Hitbox 12 Bounding Box Max: 8.410000 5.090000 3.000000
+
+Hitbox 13 Bone: 14
+Hitbox 13 Group: 4
+Hitbox 13 Bounding Box Min: 0.940000 -2.880000 -4.130000
+Hitbox 13 Bounding Box Max: 5.440000 4.280000 3.500000
+
+Hitbox 14 Bone: 17
+Hitbox 14 Group: 4
+Hitbox 14 Bounding Box Min: -2.160000 -2.340000 -2.560000
+Hitbox 14 Bounding Box Max: 11.560000 3.410000 2.380000
+
+Hitbox 15 Bone: 18
+Hitbox 15 Group: 4
+Hitbox 15 Bounding Box Min: 0.590000 -1.810000 -2.190000
+Hitbox 15 Bounding Box Max: 10.750000 2.840000 2.410000
+
+Hitbox 16 Bone: 19
+Hitbox 16 Group: 4
+Hitbox 16 Bounding Box Min: 0.000000 -1.000000 -2.000000
+Hitbox 16 Bounding Box Max: 3.000000 1.500000 3.500000
+
+Hitbox 17 Bone: 15
+Hitbox 17 Group: 5
+Hitbox 17 Bounding Box Min: 1.380000 -2.840000 -3.560000
+Hitbox 17 Bounding Box Max: 5.690000 4.310000 4.310000
+
+Hitbox 18 Bone: 16
+Hitbox 18 Group: 5
+Hitbox 18 Bounding Box Min: -1.880000 -2.470000 -2.160000
+Hitbox 18 Bounding Box Max: 11.810000 3.280000 2.810000
+
+Hitbox 19 Bone: 24
+Hitbox 19 Group: 5
+Hitbox 19 Bounding Box Min: 0.440000 -1.970000 -2.340000
+Hitbox 19 Bounding Box Max: 10.590000 2.720000 2.220000
+
+Hitbox 20 Bone: 25
+Hitbox 20 Group: 5
+Hitbox 20 Bounding Box Min: 0.000000 -1.000000 -2.000000
+Hitbox 20 Bounding Box Max: 3.000000 1.500000 3.500000
+
+Number of Sequences: 182
+
+Sequence 1 Label: "look_idle"
+Sequence 1 Frames per sec: 14.000000
+Sequence 1 Flags: 1
+Sequence 1 Events: 0
+
+Sequence 2 Label: "idle"
+Sequence 2 Frames per sec: 14.000000
+Sequence 2 Flags: 1
+Sequence 2 Events: 0
+
+Sequence 3 Label: "deep_idle"
+Sequence 3 Frames per sec: 12.000000
+Sequence 3 Flags: 1
+Sequence 3 Events: 0
+
+Sequence 4 Label: "run2"
+Sequence 4 Frames per sec: 40.000000
+Sequence 4 Flags: 1
+Sequence 4 Events: 0
+
+Sequence 5 Label: "walk2handed"
+Sequence 5 Frames per sec: 20.000000
+Sequence 5 Flags: 1
+Sequence 5 Events: 0
+
+Sequence 6 Label: "2handshoot"
+Sequence 6 Frames per sec: 20.000000
+Sequence 6 Flags: 0
+Sequence 6 Events: 0
+
+Sequence 7 Label: "crawl"
+Sequence 7 Frames per sec: 22.000000
+Sequence 7 Flags: 1
+Sequence 7 Events: 0
+
+Sequence 8 Label: "crouch_idle"
+Sequence 8 Frames per sec: 4.000000
+Sequence 8 Flags: 1
+Sequence 8 Events: 0
+
+Sequence 9 Label: "jump"
+Sequence 9 Frames per sec: 30.000000
+Sequence 9 Flags: 0
+Sequence 9 Events: 0
+
+Sequence 10 Label: "long_jump"
+Sequence 10 Frames per sec: 24.000000
+Sequence 10 Flags: 0
+Sequence 10 Events: 0
+
+Sequence 11 Label: "swim"
+Sequence 11 Frames per sec: 14.000000
+Sequence 11 Flags: 1
+Sequence 11 Events: 0
+
+Sequence 12 Label: "treadwater"
+Sequence 12 Frames per sec: 14.000000
+Sequence 12 Flags: 1
+Sequence 12 Events: 0
+
+Sequence 13 Label: "die_simple"
+Sequence 13 Frames per sec: 22.000000
+Sequence 13 Flags: 0
+Sequence 13 Events: 1
+
+	Event 1 Frame: 9
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 14 Label: "die_backwards1"
+Sequence 14 Frames per sec: 26.000000
+Sequence 14 Flags: 0
+Sequence 14 Events: 1
+
+	Event 1 Frame: 13
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 15 Label: "die_backwards"
+Sequence 15 Frames per sec: 30.000000
+Sequence 15 Flags: 0
+Sequence 15 Events: 1
+
+	Event 1 Frame: 15
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 16 Label: "die_forwards"
+Sequence 16 Frames per sec: 26.000000
+Sequence 16 Flags: 0
+Sequence 16 Events: 1
+
+	Event 1 Frame: 8
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 17 Label: "headshot"
+Sequence 17 Frames per sec: 24.000000
+Sequence 17 Flags: 0
+Sequence 17 Events: 1
+
+	Event 1 Frame: 22
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 18 Label: "die_spin"
+Sequence 18 Frames per sec: 30.000000
+Sequence 18 Flags: 0
+Sequence 18 Events: 1
+
+	Event 1 Frame: 16
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 19 Label: "gutshot"
+Sequence 19 Frames per sec: 26.000000
+Sequence 19 Flags: 0
+Sequence 19 Events: 1
+
+	Event 1 Frame: 22
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 20 Label: "ref_draw_crowbar"
+Sequence 20 Frames per sec: 12.000000
+Sequence 20 Flags: 0
+Sequence 20 Events: 0
+
+Sequence 21 Label: "ref_aim_crowbar"
+Sequence 21 Frames per sec: 12.000000
+Sequence 21 Flags: 1
+Sequence 21 Events: 0
+
+Sequence 22 Label: "ref_shoot_crowbar"
+Sequence 22 Frames per sec: 24.000000
+Sequence 22 Flags: 0
+Sequence 22 Events: 0
+
+Sequence 23 Label: "crouch_draw_crowbar"
+Sequence 23 Frames per sec: 12.000000
+Sequence 23 Flags: 0
+Sequence 23 Events: 0
+
+Sequence 24 Label: "crouch_aim_crowbar"
+Sequence 24 Frames per sec: 12.000000
+Sequence 24 Flags: 1
+Sequence 24 Events: 0
+
+Sequence 25 Label: "crouch_shoot_crowbar"
+Sequence 25 Frames per sec: 24.000000
+Sequence 25 Flags: 0
+Sequence 25 Events: 0
+
+Sequence 26 Label: "ref_cock_wrench"
+Sequence 26 Frames per sec: 10.000000
+Sequence 26 Flags: 0
+Sequence 26 Events: 0
+
+Sequence 27 Label: "ref_hold_wrench"
+Sequence 27 Frames per sec: 13.000000
+Sequence 27 Flags: 0
+Sequence 27 Events: 0
+
+Sequence 28 Label: "ref_shoot_wrench"
+Sequence 28 Frames per sec: 13.000000
+Sequence 28 Flags: 0
+Sequence 28 Events: 0
+
+Sequence 29 Label: "crouch_cock_wrench"
+Sequence 29 Frames per sec: 10.000000
+Sequence 29 Flags: 0
+Sequence 29 Events: 0
+
+Sequence 30 Label: "crouch_hold_wrench"
+Sequence 30 Frames per sec: 13.000000
+Sequence 30 Flags: 0
+Sequence 30 Events: 0
+
+Sequence 31 Label: "crouch_shoot_wrench"
+Sequence 31 Frames per sec: 13.000000
+Sequence 31 Flags: 0
+Sequence 31 Events: 0
+
+Sequence 32 Label: "ref_draw_gren"
+Sequence 32 Frames per sec: 10.000000
+Sequence 32 Flags: 0
+Sequence 32 Events: 0
+
+Sequence 33 Label: "ref_aim_gren"
+Sequence 33 Frames per sec: 12.000000
+Sequence 33 Flags: 1
+Sequence 33 Events: 0
+
+Sequence 34 Label: "ref_cock_gren"
+Sequence 34 Frames per sec: 18.000000
+Sequence 34 Flags: 0
+Sequence 34 Events: 0
+
+Sequence 35 Label: "ref_hold_gren"
+Sequence 35 Frames per sec: 15.000000
+Sequence 35 Flags: 0
+Sequence 35 Events: 0
+
+Sequence 36 Label: "ref_shoot_gren"
+Sequence 36 Frames per sec: 15.000000
+Sequence 36 Flags: 0
+Sequence 36 Events: 0
+
+Sequence 37 Label: "crouch_draw_gren"
+Sequence 37 Frames per sec: 10.000000
+Sequence 37 Flags: 0
+Sequence 37 Events: 0
+
+Sequence 38 Label: "crouch_aim_gren"
+Sequence 38 Frames per sec: 12.000000
+Sequence 38 Flags: 1
+Sequence 38 Events: 0
+
+Sequence 39 Label: "crouch_cock_gren"
+Sequence 39 Frames per sec: 18.000000
+Sequence 39 Flags: 0
+Sequence 39 Events: 0
+
+Sequence 40 Label: "crouch_hold_gren"
+Sequence 40 Frames per sec: 15.000000
+Sequence 40 Flags: 0
+Sequence 40 Events: 0
+
+Sequence 41 Label: "crouch_shoot_gren"
+Sequence 41 Frames per sec: 15.000000
+Sequence 41 Flags: 0
+Sequence 41 Events: 0
+
+Sequence 42 Label: "ref_draw_trip"
+Sequence 42 Frames per sec: 17.000000
+Sequence 42 Flags: 0
+Sequence 42 Events: 0
+
+Sequence 43 Label: "ref_aim_trip"
+Sequence 43 Frames per sec: 12.000000
+Sequence 43 Flags: 1
+Sequence 43 Events: 0
+
+Sequence 44 Label: "ref_shoot_trip"
+Sequence 44 Frames per sec: 18.000000
+Sequence 44 Flags: 0
+Sequence 44 Events: 0
+
+Sequence 45 Label: "crouch_draw_trip"
+Sequence 45 Frames per sec: 17.000000
+Sequence 45 Flags: 0
+Sequence 45 Events: 0
+
+Sequence 46 Label: "crouch_aim_trip"
+Sequence 46 Frames per sec: 12.000000
+Sequence 46 Flags: 1
+Sequence 46 Events: 0
+
+Sequence 47 Label: "crouch_shoot_trip"
+Sequence 47 Frames per sec: 18.000000
+Sequence 47 Flags: 0
+Sequence 47 Events: 0
+
+Sequence 48 Label: "ref_draw_onehanded"
+Sequence 48 Frames per sec: 15.000000
+Sequence 48 Flags: 0
+Sequence 48 Events: 0
+
+Sequence 49 Label: "ref_aim_onehanded"
+Sequence 49 Frames per sec: 12.000000
+Sequence 49 Flags: 1
+Sequence 49 Events: 0
+
+Sequence 50 Label: "ref_shoot_onehanded"
+Sequence 50 Frames per sec: 25.000000
+Sequence 50 Flags: 0
+Sequence 50 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 51 Label: "ref_reload_onehanded"
+Sequence 51 Frames per sec: 20.000000
+Sequence 51 Flags: 0
+Sequence 51 Events: 0
+
+Sequence 52 Label: "crouch_draw_onehanded"
+Sequence 52 Frames per sec: 15.000000
+Sequence 52 Flags: 0
+Sequence 52 Events: 0
+
+Sequence 53 Label: "crouch_aim_onehanded"
+Sequence 53 Frames per sec: 12.000000
+Sequence 53 Flags: 1
+Sequence 53 Events: 0
+
+Sequence 54 Label: "crouch_shoot_onehanded"
+Sequence 54 Frames per sec: 25.000000
+Sequence 54 Flags: 0
+Sequence 54 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 55 Label: "crouch_reload_onehanded"
+Sequence 55 Frames per sec: 20.000000
+Sequence 55 Flags: 0
+Sequence 55 Events: 0
+
+Sequence 56 Label: "ref_draw_python"
+Sequence 56 Frames per sec: 15.000000
+Sequence 56 Flags: 0
+Sequence 56 Events: 0
+
+Sequence 57 Label: "ref_aim_python"
+Sequence 57 Frames per sec: 12.000000
+Sequence 57 Flags: 1
+Sequence 57 Events: 0
+
+Sequence 58 Label: "ref_shoot_python"
+Sequence 58 Frames per sec: 16.000000
+Sequence 58 Flags: 0
+Sequence 58 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 59 Label: "ref_reload_python"
+Sequence 59 Frames per sec: 15.000000
+Sequence 59 Flags: 0
+Sequence 59 Events: 0
+
+Sequence 60 Label: "crouch_draw_python"
+Sequence 60 Frames per sec: 15.000000
+Sequence 60 Flags: 0
+Sequence 60 Events: 0
+
+Sequence 61 Label: "crouch_aim_python"
+Sequence 61 Frames per sec: 12.000000
+Sequence 61 Flags: 1
+Sequence 61 Events: 0
+
+Sequence 62 Label: "crouch_shoot_python"
+Sequence 62 Frames per sec: 16.000000
+Sequence 62 Flags: 0
+Sequence 62 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 63 Label: "crouch_reload_python"
+Sequence 63 Frames per sec: 15.000000
+Sequence 63 Flags: 0
+Sequence 63 Events: 0
+
+Sequence 64 Label: "ref_draw_shotgun"
+Sequence 64 Frames per sec: 18.000000
+Sequence 64 Flags: 0
+Sequence 64 Events: 0
+
+Sequence 65 Label: "ref_aim_shotgun"
+Sequence 65 Frames per sec: 12.000000
+Sequence 65 Flags: 1
+Sequence 65 Events: 0
+
+Sequence 66 Label: "ref_shoot_shotgun"
+Sequence 66 Frames per sec: 20.000000
+Sequence 66 Flags: 0
+Sequence 66 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5011
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 67 Label: "ref_reload_shotgun"
+Sequence 67 Frames per sec: 22.000000
+Sequence 67 Flags: 0
+Sequence 67 Events: 0
+
+Sequence 68 Label: "crouch_draw_shotgun"
+Sequence 68 Frames per sec: 18.000000
+Sequence 68 Flags: 0
+Sequence 68 Events: 0
+
+Sequence 69 Label: "crouch_aim_shotgun"
+Sequence 69 Frames per sec: 12.000000
+Sequence 69 Flags: 1
+Sequence 69 Events: 0
+
+Sequence 70 Label: "crouch_shoot_shotgun"
+Sequence 70 Frames per sec: 20.000000
+Sequence 70 Flags: 0
+Sequence 70 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5011
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 71 Label: "crouch_reload_shotgun"
+Sequence 71 Frames per sec: 22.000000
+Sequence 71 Flags: 0
+Sequence 71 Events: 0
+
+Sequence 72 Label: "ref_draw_gauss"
+Sequence 72 Frames per sec: 18.000000
+Sequence 72 Flags: 0
+Sequence 72 Events: 0
+
+Sequence 73 Label: "ref_aim_gauss"
+Sequence 73 Frames per sec: 12.000000
+Sequence 73 Flags: 1
+Sequence 73 Events: 0
+
+Sequence 74 Label: "ref_shoot_gauss"
+Sequence 74 Frames per sec: 20.000000
+Sequence 74 Flags: 0
+Sequence 74 Events: 0
+
+Sequence 75 Label: "crouch_draw_gauss"
+Sequence 75 Frames per sec: 18.000000
+Sequence 75 Flags: 0
+Sequence 75 Events: 0
+
+Sequence 76 Label: "crouch_aim_gauss"
+Sequence 76 Frames per sec: 12.000000
+Sequence 76 Flags: 1
+Sequence 76 Events: 0
+
+Sequence 77 Label: "crouch_shoot_gauss"
+Sequence 77 Frames per sec: 20.000000
+Sequence 77 Flags: 0
+Sequence 77 Events: 0
+
+Sequence 78 Label: "ref_draw_mp5"
+Sequence 78 Frames per sec: 17.000000
+Sequence 78 Flags: 0
+Sequence 78 Events: 0
+
+Sequence 79 Label: "ref_aim_mp5"
+Sequence 79 Frames per sec: 12.000000
+Sequence 79 Flags: 1
+Sequence 79 Events: 0
+
+Sequence 80 Label: "ref_shoot_mp5"
+Sequence 80 Frames per sec: 30.000000
+Sequence 80 Flags: 0
+Sequence 80 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5011
+	Event 1 Options: 20
+	Event 1 Type: 0
+
+Sequence 81 Label: "ref_reload_mp5"
+Sequence 81 Frames per sec: 16.000000
+Sequence 81 Flags: 0
+Sequence 81 Events: 0
+
+Sequence 82 Label: "crouch_draw_mp5"
+Sequence 82 Frames per sec: 17.000000
+Sequence 82 Flags: 0
+Sequence 82 Events: 0
+
+Sequence 83 Label: "crouch_aim_mp5"
+Sequence 83 Frames per sec: 12.000000
+Sequence 83 Flags: 1
+Sequence 83 Events: 0
+
+Sequence 84 Label: "crouch_shoot_mp5"
+Sequence 84 Frames per sec: 30.000000
+Sequence 84 Flags: 0
+Sequence 84 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5011
+	Event 1 Options: 20
+	Event 1 Type: 0
+
+Sequence 85 Label: "crouch_reload_mp5"
+Sequence 85 Frames per sec: 16.000000
+Sequence 85 Flags: 0
+Sequence 85 Events: 0
+
+Sequence 86 Label: "ref_draw_rpg"
+Sequence 86 Frames per sec: 15.000000
+Sequence 86 Flags: 0
+Sequence 86 Events: 0
+
+Sequence 87 Label: "ref_aim_rpg"
+Sequence 87 Frames per sec: 10.000000
+Sequence 87 Flags: 1
+Sequence 87 Events: 0
+
+Sequence 88 Label: "ref_shoot_rpg"
+Sequence 88 Frames per sec: 18.000000
+Sequence 88 Flags: 0
+Sequence 88 Events: 0
+
+Sequence 89 Label: "ref_reload_rpg"
+Sequence 89 Frames per sec: 13.000000
+Sequence 89 Flags: 0
+Sequence 89 Events: 0
+
+Sequence 90 Label: "crouch_draw_rpg"
+Sequence 90 Frames per sec: 15.000000
+Sequence 90 Flags: 0
+Sequence 90 Events: 0
+
+Sequence 91 Label: "crouch_aim_rpg"
+Sequence 91 Frames per sec: 12.000000
+Sequence 91 Flags: 1
+Sequence 91 Events: 0
+
+Sequence 92 Label: "crouch_shoot_rpg"
+Sequence 92 Frames per sec: 18.000000
+Sequence 92 Flags: 0
+Sequence 92 Events: 0
+
+Sequence 93 Label: "crouch_reload_rpg"
+Sequence 93 Frames per sec: 13.000000
+Sequence 93 Flags: 0
+Sequence 93 Events: 0
+
+Sequence 94 Label: "ref_draw_egon"
+Sequence 94 Frames per sec: 15.000000
+Sequence 94 Flags: 0
+Sequence 94 Events: 0
+
+Sequence 95 Label: "ref_aim_egon"
+Sequence 95 Frames per sec: 12.000000
+Sequence 95 Flags: 1
+Sequence 95 Events: 0
+
+Sequence 96 Label: "ref_shoot_egon"
+Sequence 96 Frames per sec: 18.000000
+Sequence 96 Flags: 1
+Sequence 96 Events: 0
+
+Sequence 97 Label: "crouch_draw_egon"
+Sequence 97 Frames per sec: 15.000000
+Sequence 97 Flags: 0
+Sequence 97 Events: 0
+
+Sequence 98 Label: "crouch_aim_egon"
+Sequence 98 Frames per sec: 12.000000
+Sequence 98 Flags: 1
+Sequence 98 Events: 0
+
+Sequence 99 Label: "crouch_shoot_egon"
+Sequence 99 Frames per sec: 18.000000
+Sequence 99 Flags: 1
+Sequence 99 Events: 0
+
+Sequence 100 Label: "ref_draw_squeak"
+Sequence 100 Frames per sec: 20.000000
+Sequence 100 Flags: 0
+Sequence 100 Events: 0
+
+Sequence 101 Label: "ref_aim_squeak"
+Sequence 101 Frames per sec: 12.000000
+Sequence 101 Flags: 1
+Sequence 101 Events: 0
+
+Sequence 102 Label: "ref_shoot_squeak"
+Sequence 102 Frames per sec: 15.000000
+Sequence 102 Flags: 0
+Sequence 102 Events: 0
+
+Sequence 103 Label: "crouch_draw_squeak"
+Sequence 103 Frames per sec: 20.000000
+Sequence 103 Flags: 0
+Sequence 103 Events: 0
+
+Sequence 104 Label: "crouch_aim_squeak"
+Sequence 104 Frames per sec: 12.000000
+Sequence 104 Flags: 1
+Sequence 104 Events: 0
+
+Sequence 105 Label: "crouch_shoot_squeak"
+Sequence 105 Frames per sec: 15.000000
+Sequence 105 Flags: 0
+Sequence 105 Events: 0
+
+Sequence 106 Label: "ref_draw_hive"
+Sequence 106 Frames per sec: 12.000000
+Sequence 106 Flags: 0
+Sequence 106 Events: 0
+
+Sequence 107 Label: "ref_aim_hive"
+Sequence 107 Frames per sec: 12.000000
+Sequence 107 Flags: 1
+Sequence 107 Events: 0
+
+Sequence 108 Label: "ref_shoot_hive"
+Sequence 108 Frames per sec: 17.000000
+Sequence 108 Flags: 0
+Sequence 108 Events: 0
+
+Sequence 109 Label: "crouch_draw_hive"
+Sequence 109 Frames per sec: 12.000000
+Sequence 109 Flags: 0
+Sequence 109 Events: 0
+
+Sequence 110 Label: "crouch_aim_hive"
+Sequence 110 Frames per sec: 12.000000
+Sequence 110 Flags: 1
+Sequence 110 Events: 0
+
+Sequence 111 Label: "crouch_shoot_hive"
+Sequence 111 Frames per sec: 17.000000
+Sequence 111 Flags: 0
+Sequence 111 Events: 0
+
+Sequence 112 Label: "ref_draw_bow"
+Sequence 112 Frames per sec: 15.000000
+Sequence 112 Flags: 0
+Sequence 112 Events: 0
+
+Sequence 113 Label: "ref_aim_bow"
+Sequence 113 Frames per sec: 10.000000
+Sequence 113 Flags: 1
+Sequence 113 Events: 0
+
+Sequence 114 Label: "ref_shoot_bow"
+Sequence 114 Frames per sec: 20.000000
+Sequence 114 Flags: 0
+Sequence 114 Events: 0
+
+Sequence 115 Label: "ref_aim_bowscope"
+Sequence 115 Frames per sec: 6.000000
+Sequence 115 Flags: 1
+Sequence 115 Events: 0
+
+Sequence 116 Label: "ref_shoot_bowscope"
+Sequence 116 Frames per sec: 20.000000
+Sequence 116 Flags: 0
+Sequence 116 Events: 0
+
+Sequence 117 Label: "ref_reload_bow"
+Sequence 117 Frames per sec: 11.000000
+Sequence 117 Flags: 0
+Sequence 117 Events: 0
+
+Sequence 118 Label: "crouch_draw_bow"
+Sequence 118 Frames per sec: 15.000000
+Sequence 118 Flags: 0
+Sequence 118 Events: 0
+
+Sequence 119 Label: "crouch_aim_bow"
+Sequence 119 Frames per sec: 10.000000
+Sequence 119 Flags: 1
+Sequence 119 Events: 0
+
+Sequence 120 Label: "crouch_shoot_bow"
+Sequence 120 Frames per sec: 20.000000
+Sequence 120 Flags: 0
+Sequence 120 Events: 0
+
+Sequence 121 Label: "crouch_aim_bowscope"
+Sequence 121 Frames per sec: 6.000000
+Sequence 121 Flags: 1
+Sequence 121 Events: 0
+
+Sequence 122 Label: "crouch_shoot_bowscope"
+Sequence 122 Frames per sec: 20.000000
+Sequence 122 Flags: 0
+Sequence 122 Events: 0
+
+Sequence 123 Label: "crouch_reload_bow"
+Sequence 123 Frames per sec: 11.000000
+Sequence 123 Flags: 0
+Sequence 123 Events: 0
+
+Sequence 124 Label: "ref_draw_minigun"
+Sequence 124 Frames per sec: 15.000000
+Sequence 124 Flags: 0
+Sequence 124 Events: 0
+
+Sequence 125 Label: "ref_aim_minigun"
+Sequence 125 Frames per sec: 8.000000
+Sequence 125 Flags: 1
+Sequence 125 Events: 0
+
+Sequence 126 Label: "ref_shoot_minigun"
+Sequence 126 Frames per sec: 30.000000
+Sequence 126 Flags: 0
+Sequence 126 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5021
+	Event 1 Options: 20
+	Event 1 Type: 0
+
+Sequence 127 Label: "crouch_draw_minigun"
+Sequence 127 Frames per sec: 15.000000
+Sequence 127 Flags: 0
+Sequence 127 Events: 0
+
+Sequence 128 Label: "crouch_aim_minigun"
+Sequence 128 Frames per sec: 8.000000
+Sequence 128 Flags: 1
+Sequence 128 Events: 0
+
+Sequence 129 Label: "crouch_shoot_minigun"
+Sequence 129 Frames per sec: 30.000000
+Sequence 129 Flags: 0
+Sequence 129 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5021
+	Event 1 Options: 20
+	Event 1 Type: 0
+
+Sequence 130 Label: "ref_draw_uzis"
+Sequence 130 Frames per sec: 10.000000
+Sequence 130 Flags: 0
+Sequence 130 Events: 0
+
+Sequence 131 Label: "ref_draw_uzis_left"
+Sequence 131 Frames per sec: 11.000000
+Sequence 131 Flags: 0
+Sequence 131 Events: 0
+
+Sequence 132 Label: "ref_aim_uzis"
+Sequence 132 Frames per sec: 14.000000
+Sequence 132 Flags: 1
+Sequence 132 Events: 0
+
+Sequence 133 Label: "ref_shoot_uzis_both"
+Sequence 133 Frames per sec: 24.000000
+Sequence 133 Flags: 0
+Sequence 133 Events: 2
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+	Event 2 Frame: 0
+	Event 2 Event: 5031
+	Event 2 Options: 15
+	Event 2 Type: 0
+
+Sequence 134 Label: "ref_shoot_uzis_right"
+Sequence 134 Frames per sec: 24.000000
+Sequence 134 Flags: 0
+Sequence 134 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 135 Label: "ref_shoot_uzis_left"
+Sequence 135 Frames per sec: 24.000000
+Sequence 135 Flags: 0
+Sequence 135 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5031
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 136 Label: "ref_reload_uzis_right"
+Sequence 136 Frames per sec: 14.000000
+Sequence 136 Flags: 0
+Sequence 136 Events: 0
+
+Sequence 137 Label: "ref_reload_uzis_left"
+Sequence 137 Frames per sec: 14.000000
+Sequence 137 Flags: 0
+Sequence 137 Events: 0
+
+Sequence 138 Label: "crouch_draw_uzis"
+Sequence 138 Frames per sec: 10.000000
+Sequence 138 Flags: 0
+Sequence 138 Events: 0
+
+Sequence 139 Label: "crouch_draw_uzis_left"
+Sequence 139 Frames per sec: 11.000000
+Sequence 139 Flags: 0
+Sequence 139 Events: 0
+
+Sequence 140 Label: "crouch_aim_uzis"
+Sequence 140 Frames per sec: 14.000000
+Sequence 140 Flags: 1
+Sequence 140 Events: 0
+
+Sequence 141 Label: "crouch_shoot_uzis_both"
+Sequence 141 Frames per sec: 24.000000
+Sequence 141 Flags: 0
+Sequence 141 Events: 2
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+	Event 2 Frame: 0
+	Event 2 Event: 5031
+	Event 2 Options: 15
+	Event 2 Type: 0
+
+Sequence 142 Label: "crouch_shoot_uzis_right"
+Sequence 142 Frames per sec: 24.000000
+Sequence 142 Flags: 0
+Sequence 142 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 143 Label: "crouch_shoot_uzis_left"
+Sequence 143 Frames per sec: 24.000000
+Sequence 143 Flags: 0
+Sequence 143 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5031
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 144 Label: "crouch_reload_uzis_right"
+Sequence 144 Frames per sec: 14.000000
+Sequence 144 Flags: 0
+Sequence 144 Events: 0
+
+Sequence 145 Label: "crouch_reload_uzis_left"
+Sequence 145 Frames per sec: 14.000000
+Sequence 145 Flags: 0
+Sequence 145 Events: 0
+
+Sequence 146 Label: "ref_draw_m16"
+Sequence 146 Frames per sec: 35.000000
+Sequence 146 Flags: 0
+Sequence 146 Events: 0
+
+Sequence 147 Label: "ref_aim_m16"
+Sequence 147 Frames per sec: 12.000000
+Sequence 147 Flags: 1
+Sequence 147 Events: 0
+
+Sequence 148 Label: "ref_shoot_m16"
+Sequence 148 Frames per sec: 30.000000
+Sequence 148 Flags: 0
+Sequence 148 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5005
+	Event 1 Options: muzzle_spaw.txt
+	Event 1 Type: 0
+
+Sequence 149 Label: "ref_shoot_m203"
+Sequence 149 Frames per sec: 30.000000
+Sequence 149 Flags: 0
+Sequence 149 Events: 0
+
+Sequence 150 Label: "ref_reload_m16"
+Sequence 150 Frames per sec: 32.000000
+Sequence 150 Flags: 0
+Sequence 150 Events: 0
+
+Sequence 151 Label: "ref_reload_m203"
+Sequence 151 Frames per sec: 35.000000
+Sequence 151 Flags: 0
+Sequence 151 Events: 0
+
+Sequence 152 Label: "crouch_draw_m16"
+Sequence 152 Frames per sec: 35.000000
+Sequence 152 Flags: 0
+Sequence 152 Events: 0
+
+Sequence 153 Label: "crouch_aim_m16"
+Sequence 153 Frames per sec: 12.000000
+Sequence 153 Flags: 1
+Sequence 153 Events: 0
+
+Sequence 154 Label: "crouch_shoot_m16"
+Sequence 154 Frames per sec: 30.000000
+Sequence 154 Flags: 0
+Sequence 154 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5005
+	Event 1 Options: muzzle_spaw.txt
+	Event 1 Type: 0
+
+Sequence 155 Label: "crouch_shoot_m203"
+Sequence 155 Frames per sec: 30.000000
+Sequence 155 Flags: 0
+Sequence 155 Events: 0
+
+Sequence 156 Label: "crouch_reload_m16"
+Sequence 156 Frames per sec: 32.000000
+Sequence 156 Flags: 0
+Sequence 156 Events: 0
+
+Sequence 157 Label: "crouch_reload_m203"
+Sequence 157 Frames per sec: 35.000000
+Sequence 157 Flags: 0
+Sequence 157 Events: 0
+
+Sequence 158 Label: "ref_draw_sniper"
+Sequence 158 Frames per sec: 15.000000
+Sequence 158 Flags: 0
+Sequence 158 Events: 0
+
+Sequence 159 Label: "ref_aim_sniper"
+Sequence 159 Frames per sec: 10.000000
+Sequence 159 Flags: 1
+Sequence 159 Events: 0
+
+Sequence 160 Label: "ref_shoot_sniper"
+Sequence 160 Frames per sec: 20.000000
+Sequence 160 Flags: 0
+Sequence 160 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5021
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 161 Label: "ref_aim_sniperscope"
+Sequence 161 Frames per sec: 6.000000
+Sequence 161 Flags: 1
+Sequence 161 Events: 0
+
+Sequence 162 Label: "ref_shoot_sniperscope"
+Sequence 162 Frames per sec: 20.000000
+Sequence 162 Flags: 0
+Sequence 162 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5011
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 163 Label: "ref_reload_sniper"
+Sequence 163 Frames per sec: 22.000000
+Sequence 163 Flags: 0
+Sequence 163 Events: 0
+
+Sequence 164 Label: "crouch_draw_sniper"
+Sequence 164 Frames per sec: 15.000000
+Sequence 164 Flags: 0
+Sequence 164 Events: 0
+
+Sequence 165 Label: "crouch_aim_sniper"
+Sequence 165 Frames per sec: 10.000000
+Sequence 165 Flags: 1
+Sequence 165 Events: 0
+
+Sequence 166 Label: "crouch_shoot_sniper"
+Sequence 166 Frames per sec: 20.000000
+Sequence 166 Flags: 0
+Sequence 166 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5011
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 167 Label: "crouch_aim_sniperscope"
+Sequence 167 Frames per sec: 6.000000
+Sequence 167 Flags: 1
+Sequence 167 Events: 0
+
+Sequence 168 Label: "crouch_shoot_sniperscope"
+Sequence 168 Frames per sec: 20.000000
+Sequence 168 Flags: 0
+Sequence 168 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5011
+	Event 1 Options: 15
+	Event 1 Type: 0
+
+Sequence 169 Label: "crouch_reload_sniper"
+Sequence 169 Frames per sec: 22.000000
+Sequence 169 Flags: 0
+Sequence 169 Events: 0
+
+Sequence 170 Label: "ref_draw_saw"
+Sequence 170 Frames per sec: 24.000000
+Sequence 170 Flags: 0
+Sequence 170 Events: 0
+
+Sequence 171 Label: "ref_aim_saw"
+Sequence 171 Frames per sec: 12.000000
+Sequence 171 Flags: 1
+Sequence 171 Events: 0
+
+Sequence 172 Label: "ref_shoot_saw"
+Sequence 172 Frames per sec: 24.000000
+Sequence 172 Flags: 0
+Sequence 172 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5005
+	Event 1 Options: muzzle_spaw.txt
+	Event 1 Type: 0
+
+Sequence 173 Label: "ref_reload_saw"
+Sequence 173 Frames per sec: 30.000000
+Sequence 173 Flags: 0
+Sequence 173 Events: 0
+
+Sequence 174 Label: "crouch_draw_saw"
+Sequence 174 Frames per sec: 24.000000
+Sequence 174 Flags: 0
+Sequence 174 Events: 0
+
+Sequence 175 Label: "crouch_aim_saw"
+Sequence 175 Frames per sec: 12.000000
+Sequence 175 Flags: 1
+Sequence 175 Events: 0
+
+Sequence 176 Label: "crouch_shoot_saw"
+Sequence 176 Frames per sec: 24.000000
+Sequence 176 Flags: 0
+Sequence 176 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5005
+	Event 1 Options: muzzle_spaw.txt
+	Event 1 Type: 0
+
+Sequence 177 Label: "crouch_reload_saw"
+Sequence 177 Frames per sec: 30.000000
+Sequence 177 Flags: 0
+Sequence 177 Events: 0
+
+Sequence 178 Label: "deadback"
+Sequence 178 Frames per sec: 10.000000
+Sequence 178 Flags: 0
+Sequence 178 Events: 0
+
+Sequence 179 Label: "deadsitting"
+Sequence 179 Frames per sec: 10.000000
+Sequence 179 Flags: 0
+Sequence 179 Events: 0
+
+Sequence 180 Label: "deadstomach"
+Sequence 180 Frames per sec: 10.000000
+Sequence 180 Flags: 0
+Sequence 180 Events: 0
+
+Sequence 181 Label: "deadtable"
+Sequence 181 Frames per sec: 10.000000
+Sequence 181 Flags: 0
+Sequence 181 Events: 0
+
+Sequence 182 Label: "ShannonCaldwell_v1.2"
+Sequence 182 Frames per sec: 10.000000
+Sequence 182 Flags: 0
+Sequence 182 Events: 0
+
+Number of Sequence Groups: 1
+
+Sequence Group 1 Label: "default"
+
+Sequence Group 1 Name: ""
+
+Sequence Group 1 Data: 0
+
+Number of Textures: 2
+Texture Index: 864732
+Texture Data Index: 864896
+
+Texture 1 Name: "GSG9_Working1.BMP"
+Texture 1 Flags: 0
+Texture 1 Width: 512
+Texture 1 Height: 512
+Texture 1 Index: 864896
+
+Texture 2 Name: "Chrome1.BMP"
+Texture 2 Flags: 3
+Texture 2 Width: 64
+Texture 2 Height: 64
+Texture 2 Index: 1127808
+
+Number of Skin References: 2
+Number of Skin Families: 1
+
+Number of Body Parts: 1
+
+Body Part 1 Name: "body"
+Body Part 1 Number of Models: 1
+Body Part 1 Base: 1
+Body Part 1 Model Index: 845388
+
+	Sub Model 1 Name: "gsg9"
+	Sub Model 1 Type: 0
+	Sub Model 1 Meshes: 2
+	Sub Model 1 Vertices: 391
+	Sub Model 1 Normals: 393
+	Sub Model 1 Deformation Groups: 0
+
+		Sub Model 1, Mesh 1 Total Triangles: 760
+		Sub Model 1, Mesh 1 Triangle Index: 855736
+		Sub Model 1, Mesh 1 Skin Reference: 0
+		Sub Model 1, Mesh 1 Total Normals: 385
+		Sub Model 1, Mesh 1 Normals Index: 0
+
+		Sub Model 1, Mesh 2 Total Triangles: 6
+		Sub Model 1, Mesh 2 Triangle Index: 864644
+		Sub Model 1, Mesh 2 Skin Reference: 1
+		Sub Model 1, Mesh 2 Total Normals: 8
+		Sub Model 1, Mesh 2 Normals Index: 0
+
+Number of Attatchments: 4
+Attachment 1 Name: ""
+Attachment 2 Name: ""
+Attachment 3 Name: ""
+Attachment 4 Name: ""

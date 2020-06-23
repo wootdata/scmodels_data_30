@@ -1,0 +1,23 @@
+Darth Maul Deathmatch Model
+3D artist: Nobody of 3-A
+Description: Darth Maul, the very cool dark jedi from the new Star Wars prequels.
+
+Create a DarthMaul folder in the 
+\sierra\half-life\valve\models\player folder,
+then place these files in it.
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For
+a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the
+.bmp file necessary for selecting the model in the interface: models must be
+deliberately installed by the player.
+
+Sorry, I only know how to modify skins, not create new models from scratch;
+hence no long, flowing black hooded robe.
+
+
+
+Happy fragging and see you at the prequels!

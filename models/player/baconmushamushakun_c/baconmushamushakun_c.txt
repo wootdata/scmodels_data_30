@@ -1,0 +1,14 @@
+------------------------------------------------------
+Bacon Mushamusha-kun Color (Pop Team Epic)
+for Sven Co-op 5.0 player model
+
+japanese bacon character
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI Ver.2, EDGE
+Website: http://tepodonsc35.g1.xrea.com/
+
+23-08-2018 completed
+------------------------------------------------------

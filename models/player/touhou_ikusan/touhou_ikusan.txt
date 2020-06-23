@@ -1,0 +1,6 @@
+touhou_ikusan
+
+Model :  Basilico
+
+2016/07/30
+Fixed animations(9mm & 357). Fixed smoothing.

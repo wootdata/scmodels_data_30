@@ -1,0 +1,37 @@
+05/02/22
+================================================================
+Model Name              : Bomberman
+installation directory  : SIERRA\Half-life\valve\models\player\Bomberman
+Author                  : Oscar
+Email Address           : jicecperu@terra.com.pe
+Model description       : Bomberman, the popular bomb thrower from nintendo.
+Additional Credits to   : Valve and Sierra (you know why...) and Chumbalum's software for the great editor
+
+Thanks to               : My computer, my dog, errmmmm, anybody else.
+================================================================
+* Play Information *
+
+New Sounds              : No
+CTF Skins               : No
+VWEP Support            : No
+
+
+* Construction *
+Poly Count              : Man I don't know
+Vert Count              : ....
+Skin Count              : 3
+Base                    : New model. The skeleton from one of my test models. 
+Editor used             : Milkshape 3d 1.5.9
+Known Bugs              : Little clipping with the arms
+Build/Animation time    : 1 day
+
+
+* How to use this model *
+
+Copy the files into "SIERRA\Half-life\valve\models\player\Bomberman" folder
+
+* Copyright / Permissions *
+
+Half-Life is a trademark of Valve and Sierra. Do anything with the model.
+
+
