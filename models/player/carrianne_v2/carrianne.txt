@@ -1,0 +1,21 @@
+25/8/1999
+================================================================
+Model Name              : Carrianne
+Installation directory  : \models\player\carrianne\
+Author                  : Neal "Guplik" Corbett
+Email Address           : guplik@pmail.net
+Web Address       	: http://www.nealweb.freeserve.co.uk/
+
+Humanity has been enslaved for power-production by robot computer things, their minds imprisoned in a big false reality thang. A number of people have escaped and spend their time trying to free others by hacking into this virtual world. One member of a hacking team would appear to have made a wrong turning somewhere along the way and has found another world to run around and shoot people in...
+
+Okay, so she's Trinity from the movie The Matrix.
+I've taken the name of her actress, Carrie-Anne Moss, For Copyright Reasons.
+
+================================================================
+
+Poly Count              : 790 polys
+Vert Count              : 414 Verts
+Editors used            : Built in 3DSMax 2.5, NST for skinmesh, Paint Shop Pro 5 for skins
+
+Don't use this model for purposes other than as a player-model (ie. for conversions, 
+whatever) or alter the model without the permission of me, Neal Corbett.
