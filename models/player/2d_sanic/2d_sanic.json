@@ -1,1 +1,1 @@
-{"events": [{"file": "player/playersounds/tails/newjump.wav", "frame": "1", "seq": "8"}], "tri_count": "29", "hash": "faf58345c154931c7a6363d86a988a4a", "seq_groups": 1}
+{"seq_groups": 1, "hash": "faf58345c154931c7a6363d86a988a4a", "tri_count": "29", "events": [{"seq": "8", "frame": "1", "file": "player/playersounds/tails/newjump.wav"}]}
