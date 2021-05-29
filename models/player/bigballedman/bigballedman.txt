@@ -1,0 +1,21 @@
+		**************BigBALLedMan***************
+
+  He's big, he's balled, we presume he's a man, therefor... he is 
+BigBALLedMan.  This is the first version of BigBALLedMan so there may
+be errors in the design.  If you find any errors please email us.
+
+
+jacobf@americangrowth.com - skin, programming
+
+SCUD868099@aol.com - 3D artist
+
+
+
+INSTALLATION:
+
+After unzipping the three files (BigBALLedMan.mdl, BigBALLedMan.txt, 
+and BigBALLedMan.bmp) place them into a folder named "BigBALLedMan" 
+exactly like that.  Then place that folder into the 
+"Sierra\Half-life\valve\models\player\".  If you do not have that 
+folder than place the "BigBALLedMan" folder were ever your other 
+models are.

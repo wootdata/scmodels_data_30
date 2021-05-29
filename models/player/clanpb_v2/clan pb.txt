@@ -1,0 +1,17 @@
+Skinner/modeler: SlimReapeR
+Skin Name: Sarge
+Model Used: Sarge (base model:Punisher)
+
+
+This is the clan model for the Precizion Bomberz.
+
+Installation of Plugin
+
+Create a folder called sarge  in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    Http://www.soldiers-of-bruv.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
