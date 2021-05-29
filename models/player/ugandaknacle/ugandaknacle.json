@@ -1,1 +1,439 @@
-{"seq_groups": 1, "hash": "609fc4efde38cd12e8fff52b7b312f1f", "tri_count": "8524"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "ugandan_knuckles_Tyfel'ki)))",
+					"polys": 380,
+					"verts": 198
+				}
+			],
+			"name": "1"
+		}, 
+		{
+			"models": [
+				{
+					"name": "ugandan_knuckles_glaza",
+					"polys": 240,
+					"verts": 124
+				}
+			],
+			"name": "2"
+		}, 
+		{
+			"models": [
+				{
+					"name": "ugandan_knuckles_telo",
+					"polys": 3491,
+					"verts": 1866
+				}
+			],
+			"name": "3"
+		}, 
+		{
+			"models": [
+				{
+					"name": "ugandan_knuckles_ry4ki",
+					"polys": 1645,
+					"verts": 838
+				}
+			],
+			"name": "4"
+		}, 
+		{
+			"models": [
+				{
+					"name": "ugandan_knuckles_telo2",
+					"polys": 980,
+					"verts": 515
+				}
+			],
+			"name": "5"
+		}, 
+		{
+			"models": [
+				{
+					"name": "ugandan_knuckles_golova",
+					"polys": 1788,
+					"verts": 948
+				}
+			],
+			"name": "6"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 11,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 19,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "609fc4efde38cd12e8fff52b7b312f1f",
+	"name": "medic-mod.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 20.000000,
+			"frames": 30,
+			"name": "vk.com/sosokedinoroganya PROSTO "
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 30,
+			"name": "vk.com/sosokedinoroganya"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 30,
+			"name": "vk.com/sosokedinoroganya idle"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 30,
+			"name": "sosok edinoroga1 Walk"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 30,
+			"name": "vk.com/sosokedinoroganya"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 30,
+			"name": "vk.com/sosokedinoroganya RUN PID"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 61,
+			"name": "sosok edinoroga"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 61,
+			"name": "sosok edinoroga"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "swim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 61,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 70.000000,
+			"frames": 61,
+			"name": "death1"
+		}, 
+		{
+			"fps": 70.000000,
+			"frames": 61,
+			"name": "death2"
+		}, 
+		{
+			"fps": 70.000000,
+			"frames": 61,
+			"name": "death3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "head"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "back"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "right"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "forward"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "crouch_die"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Hips",
+			"parent": -1
+		}, 
+		{
+			"name": "Upper leg.L",
+			"parent": 0
+		}, 
+		{
+			"name": "Lower leg.L",
+			"parent": 1
+		}, 
+		{
+			"name": "Foot.L",
+			"parent": 2
+		}, 
+		{
+			"name": "Upper leg.R",
+			"parent": 0
+		}, 
+		{
+			"name": "Lower leg.R",
+			"parent": 4
+		}, 
+		{
+			"name": "Foot.R",
+			"parent": 5
+		}, 
+		{
+			"name": "Spine",
+			"parent": 0
+		}, 
+		{
+			"name": "Chest",
+			"parent": 7
+		}, 
+		{
+			"name": "Neck",
+			"parent": 8
+		}, 
+		{
+			"name": "Head",
+			"parent": 9
+		}, 
+		{
+			"name": "Shoulder.L",
+			"parent": 8
+		}, 
+		{
+			"name": "Upper arm.L",
+			"parent": 11
+		}, 
+		{
+			"name": "Lower arm.L",
+			"parent": 12
+		}, 
+		{
+			"name": "Hand.L",
+			"parent": 13
+		}, 
+		{
+			"name": "Upper pointer.L",
+			"parent": 14
+		}, 
+		{
+			"name": "Upper mid.L",
+			"parent": 14
+		}, 
+		{
+			"name": "Upper ring.L",
+			"parent": 14
+		}, 
+		{
+			"name": "Upper pinkie.L",
+			"parent": 14
+		}, 
+		{
+			"name": "Shoulder.R",
+			"parent": 8
+		}, 
+		{
+			"name": "Upper arm.R",
+			"parent": 19
+		}, 
+		{
+			"name": "Lower arm.R",
+			"parent": 20
+		}, 
+		{
+			"name": "Hand.R",
+			"parent": 21
+		}, 
+		{
+			"name": "Upper pointer.R",
+			"parent": 22
+		}, 
+		{
+			"name": "Upper mid.R",
+			"parent": 22
+		}, 
+		{
+			"name": "Upper ring.R",
+			"parent": 22
+		}, 
+		{
+			"name": "Upper pinkie.R",
+			"parent": 22
+		}, 
+		{
+			"name": "Mid pointer.L",
+			"parent": 15
+		}, 
+		{
+			"name": "Mid mid.L",
+			"parent": 16
+		}, 
+		{
+			"name": "Mid ring.L",
+			"parent": 17
+		}, 
+		{
+			"name": "Lower pinkie.L",
+			"parent": 18
+		}, 
+		{
+			"name": "Upper thumb.L",
+			"parent": 14
+		}, 
+		{
+			"name": "Lower thumb.L",
+			"parent": 31
+		}, 
+		{
+			"name": "Mid pointer.R",
+			"parent": 23
+		}, 
+		{
+			"name": "Mid mid.R",
+			"parent": 24
+		}, 
+		{
+			"name": "Mid ring.R",
+			"parent": 25
+		}, 
+		{
+			"name": "Lower pinkie.R",
+			"parent": 26
+		}, 
+		{
+			"name": "Upper thumb.R",
+			"parent": 22
+		}, 
+		{
+			"name": "Lower thumb.R",
+			"parent": 37
+		}, 
+		{
+			"name": "Upper tail",
+			"parent": 0
+		}, 
+		{
+			"name": "Lower tail",
+			"parent": 39
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 400,
+			"name": "Без 2323231.bmp",
+			"width": 400
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Без имени-1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 400,
+			"name": "Сосок единорога.bmp",
+			"width": 400
+		}, 
+		{
+			"flags": 0,
+			"height": 400,
+			"name": "3.bmp",
+			"width": 400
+		}
+	],
+	"version": 10
+}

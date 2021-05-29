@@ -1,1 +1,45 @@
-{"seq_groups": 1, "hash": "ac8f173a0b7ba28a69dd721ce7871884", "tri_count": "84"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "arc_bush",
+					"polys": 84,
+					"verts": 36
+				}
+			],
+			"name": "parts"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "ac8f173a0b7ba28a69dd721ce7871884",
+	"name": "C:\\models\\arc_bush\\arc_bush.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "idle1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Box03",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 64,
+			"height": 256,
+			"name": "null.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}

@@ -1,1 +1,758 @@
-{"seq_groups": 1, "hash": "a15abd77cabfe2dd6662d63a11b1afdc", "tri_count": "3220", "events": [{"seq": "3", "frame": "0", "file": "player/wheelchair_jog.wav"}, {"seq": "3", "frame": "7", "file": "player/wheelchair_jog.wav"}, {"seq": "3", "frame": "17", "file": "player/wheelchair_jog.wav"}, {"seq": "4", "frame": "0", "file": "player/wheelchair_walk.wav"}, {"seq": "4", "frame": "7", "file": "player/wheelchair_walk.wav"}, {"seq": "4", "frame": "17", "file": "player/wheelchair_walk.wav"}, {"seq": "6", "frame": "0", "file": "player/wheelchair_walk.wav"}, {"seq": "6", "frame": "7", "file": "player/wheelchair_walk.wav"}, {"seq": "6", "frame": "17", "file": "player/wheelchair_walk.wav"}, {"seq": "8", "frame": "0", "file": "wheelchair/wheelchair_walk.wav"}, {"seq": "8", "frame": "7", "file": "wheelchair/wheelchair_walk.wav"}, {"seq": "8", "frame": "17", "file": "wheelchair/wheelchair_walk.wav"}, {"seq": "9", "frame": "0", "file": "wheelchair/wheelchair_walk.wav"}, {"seq": "9", "frame": "7", "file": "wheelchair/wheelchair_walk.wav"}, {"seq": "9", "frame": "17", "file": "wheelchair/wheelchair_walk.wav"}, {"seq": "10", "frame": "0", "file": "wheelchair/wheelchair_walk.wav"}, {"seq": "10", "frame": "7", "file": "wheelchair/wheelchair_walk.wav"}, {"seq": "10", "frame": "17", "file": "wheelchair/wheelchair_walk.wav"}]}
+{
+	"attachments": [
+		{
+			"bone": 12,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "Keller_grunt",
+					"polys": 3220,
+					"verts": 1805
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 18,
+			"end": 50.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -50.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 24,
+			"end": 30.000000,
+			"index": 1,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
+		}, 
+		{
+			"bone": 22,
+			"end": 12.000000,
+			"index": 2,
+			"rest": 0,
+			"start": -12.000000,
+			"type": 32
+		}, 
+		{
+			"bone": 21,
+			"end": 13.000000,
+			"index": 3,
+			"rest": 0,
+			"start": -13.000000,
+			"type": 32
+		}, 
+		{
+			"bone": 26,
+			"end": 15.000000,
+			"index": 4,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
+		}
+	],
+	"events": [
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "player/wheelchair_jog.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 7,
+			"options": "player/wheelchair_jog.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 17,
+			"options": "player/wheelchair_jog.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "player/wheelchair_walk.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 7,
+			"options": "player/wheelchair_walk.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 17,
+			"options": "player/wheelchair_walk.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "player/wheelchair_walk.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 7,
+			"options": "player/wheelchair_walk.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 17,
+			"options": "player/wheelchair_walk.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "wheelchair/wheelchair_walk.wav",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 7,
+			"options": "wheelchair/wheelchair_walk.wav",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 17,
+			"options": "wheelchair/wheelchair_walk.wav",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "wheelchair/wheelchair_walk.wav",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 7,
+			"options": "wheelchair/wheelchair_walk.wav",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 17,
+			"options": "wheelchair/wheelchair_walk.wav",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "wheelchair/wheelchair_walk.wav",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 7,
+			"options": "wheelchair/wheelchair_walk.wav",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 17,
+			"options": "wheelchair/wheelchair_walk.wav",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 1000,
+			"frame": 4,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 1000,
+			"frame": 2,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 1000,
+			"frame": 2,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 1000,
+			"frame": 4,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 1000,
+			"frame": 2,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 1000,
+			"frame": 2,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 1000,
+			"frame": 4,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "a15abd77cabfe2dd6662d63a11b1afdc",
+	"name": "sci_wheelchair.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "run2"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "2handshoot"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "jump"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "swim"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 47,
+			"name": "die_simple"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 21,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 21,
+			"name": "die_backwards"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 47,
+			"name": "die_forwards"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 21,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 21,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 47,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "fighting"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "deadback"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "deadsitting"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "deadstomach"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "deadtable"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "ShannonCaldwell_v1.2"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "wheelchair base",
+			"parent": -1
+		}, 
+		{
+			"name": "wheelchair right footplate",
+			"parent": 0
+		}, 
+		{
+			"name": "wheelchair left footplate",
+			"parent": 0
+		}, 
+		{
+			"name": "wheelchair joystick",
+			"parent": 0
+		}, 
+		{
+			"name": "left w mount",
+			"parent": 0
+		}, 
+		{
+			"name": "front left wheel",
+			"parent": 4
+		}, 
+		{
+			"name": "right w mount",
+			"parent": 0
+		}, 
+		{
+			"name": "front right wheel",
+			"parent": 6
+		}, 
+		{
+			"name": "wheelchair rear wheels",
+			"parent": 0
+		}, 
+		{
+			"name": "Object01",
+			"parent": 8
+		}, 
+		{
+			"name": "Object02",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 17
+		}, 
+		{
+			"name": "Dummy05",
+			"parent": 18
+		}, 
+		{
+			"name": "L_eyebrow",
+			"parent": 19
+		}, 
+		{
+			"name": "C_eyebrow",
+			"parent": 19
+		}, 
+		{
+			"name": "R_eyebrow",
+			"parent": 19
+		}, 
+		{
+			"name": "R_Eye",
+			"parent": 19
+		}, 
+		{
+			"name": "Eyelids",
+			"parent": 19
+		}, 
+		{
+			"name": "L_Eye",
+			"parent": 19
+		}, 
+		{
+			"name": "Mouth",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 35
+		}, 
+		{
+			"name": "Bip01 L Finger2",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 L Finger21",
+			"parent": 37
+		}, 
+		{
+			"name": "Bip01 L Finger22",
+			"parent": 38
+		}, 
+		{
+			"name": "Bip01 L Finger3",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 L Finger31",
+			"parent": 40
+		}, 
+		{
+			"name": "Bip01 L Finger32",
+			"parent": 41
+		}, 
+		{
+			"name": "Bip01 L Finger4",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 L Finger41",
+			"parent": 43
+		}, 
+		{
+			"name": "Bip01 L Finger42",
+			"parent": 44
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 46
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 47
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 48
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 49
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 50
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 51
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 49
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 53
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 54
+		}, 
+		{
+			"name": "Bip01 R Finger2",
+			"parent": 49
+		}, 
+		{
+			"name": "Bip01 R Finger21",
+			"parent": 56
+		}, 
+		{
+			"name": "Bip01 R Finger22",
+			"parent": 57
+		}, 
+		{
+			"name": "Bip01 R Finger3",
+			"parent": 49
+		}, 
+		{
+			"name": "Bip01 R Finger31",
+			"parent": 59
+		}, 
+		{
+			"name": "Bip01 R Finger32",
+			"parent": 60
+		}, 
+		{
+			"name": "Bip01 R Finger4",
+			"parent": 49
+		}, 
+		{
+			"name": "Bip01 R Finger41",
+			"parent": 62
+		}, 
+		{
+			"name": "Bip01 R Finger42",
+			"parent": 63
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 65
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 66
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 68
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 69
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "wheelchair.BMP",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "fred_fred2.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "wheelchair2.BMP",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "fred_black.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "wheelchair3.BMP",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "wheelchair5.BMP",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "wheelchair4.BMP",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Keller_body.BMP",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "Keller_shoes.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "Keller_tie.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Keller_hands.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Keller_arms.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "Keller_face.BMP",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "Keller_mouth.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 254,
+			"name": "arctic-equip.bmp",
+			"width": 504
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "PC_soldier_beret_red.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}

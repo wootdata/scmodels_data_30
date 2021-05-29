@@ -1,1 +1,249 @@
-{"seq_groups": 1, "hash": "92f9a56518cefef8df5b01a6a3f17418", "tri_count": "340"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "Chub_Template_Biped1",
+					"polys": 340,
+					"verts": 172
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "92f9a56518cefef8df5b01a6a3f17418",
+	"name": "valve/models/chumtoad.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 23,
+			"name": "flinch1"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 11,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 19,
+			"name": "hop"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 19,
+			"name": "hop"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 31,
+			"name": "swim"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "die3"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 21,
+			"name": "pdwiggle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 26,
+			"name": "playdead1"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 21,
+			"name": "pdwiggle"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 26,
+			"name": "playdead2"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bone10",
+			"parent": -1
+		}, 
+		{
+			"name": "",
+			"parent": 0
+		}, 
+		{
+			"name": "",
+			"parent": 1
+		}, 
+		{
+			"name": "",
+			"parent": 2
+		}, 
+		{
+			"name": "",
+			"parent": 3
+		}, 
+		{
+			"name": "",
+			"parent": 4
+		}, 
+		{
+			"name": "",
+			"parent": 1
+		}, 
+		{
+			"name": "",
+			"parent": 6
+		}, 
+		{
+			"name": "",
+			"parent": 7
+		}, 
+		{
+			"name": "",
+			"parent": 8
+		}, 
+		{
+			"name": "",
+			"parent": 1
+		}, 
+		{
+			"name": "",
+			"parent": 10
+		}, 
+		{
+			"name": "",
+			"parent": 11
+		}, 
+		{
+			"name": "",
+			"parent": 12
+		}, 
+		{
+			"name": "",
+			"parent": 12
+		}, 
+		{
+			"name": "",
+			"parent": 14
+		}, 
+		{
+			"name": "",
+			"parent": 15
+		}, 
+		{
+			"name": "",
+			"parent": 16
+		}, 
+		{
+			"name": "",
+			"parent": 17
+		}, 
+		{
+			"name": "",
+			"parent": 12
+		}, 
+		{
+			"name": "",
+			"parent": 19
+		}, 
+		{
+			"name": "",
+			"parent": 20
+		}, 
+		{
+			"name": "",
+			"parent": 21
+		}, 
+		{
+			"name": "",
+			"parent": 22
+		}, 
+		{
+			"name": "",
+			"parent": 11
+		}, 
+		{
+			"name": "",
+			"parent": 11
+		}, 
+		{
+			"name": "",
+			"parent": 25
+		}, 
+		{
+			"name": "",
+			"parent": 26
+		}, 
+		{
+			"name": "",
+			"parent": 10
+		}, 
+		{
+			"name": "",
+			"parent": 10
+		}, 
+		{
+			"name": "",
+			"parent": 10
+		}
+	],
+	"skins": 3,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 94,
+			"name": "CHB_Side1.bmp",
+			"width": 116
+		}, 
+		{
+			"flags": 0,
+			"height": 53,
+			"name": "CHB_Eye1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 1,
+			"name": "CHB_Tounge1.bmp",
+			"width": 4
+		}, 
+		{
+			"flags": 0,
+			"height": 53,
+			"name": "CHB_Eye(Blink2).bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 53,
+			"name": "CHB_Eye(Blink3).bmp",
+			"width": 52
+		}
+	],
+	"version": 10
+}
