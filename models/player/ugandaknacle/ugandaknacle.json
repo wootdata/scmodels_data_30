@@ -241,6 +241,7 @@
 			"name": "crouch_die"
 		}
 	],
+	"size": 996308,
 	"skeleton": [
 		{
 			"name": "Hips",
