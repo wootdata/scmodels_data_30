@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 15,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 15,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 15,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 17,
+			"bone": 11,
 			"name": "",
 			"type": 0
 		}
@@ -25,17 +25,47 @@
 		{
 			"models": [
 				{
-					"name": "wesker",
-					"polys": 830,
-					"verts": 431
+					"name": "touhou_sakuya2_head",
+					"polys": 2991,
+					"verts": 1478
+				}
+			],
+			"name": "head"
+		}, 
+		{
+			"models": [
+				{
+					"name": "touhou_sakuya2_body",
+					"polys": 3510,
+					"verts": 1873
 				}
 			],
 			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "touhou_sakuya2_amm",
+					"polys": 1700,
+					"verts": 862
+				}
+			],
+			"name": "amm"
+		}, 
+		{
+			"models": [
+				{
+					"name": "touhou_sakuya2_leg",
+					"polys": 1396,
+					"verts": 715
+				}
+			],
+			"name": "leg"
 		}
 	],
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 2,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -43,7 +73,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 3,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -51,7 +81,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 4,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -59,7 +89,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 5,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -146,44 +176,44 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -301,8 +331,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "ca6c57db5f6fde70c744e7b8dd7e2738",
-	"name": "RE_STARS_Richard.mdl",
+	"md5": "dde2bef42a539b1e978ebc484cb3f268",
+	"name": "touhou_sakuya2.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,9 +1244,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1230996,
+	"size": 1754892,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1227,16 +1302,72 @@
 			"parent": 0
 		}, 
 		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 14
+		}, 
+		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 2
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 3
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1244,66 +1375,10 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 R Arm2",
 			"parent": 19
 		}, 
 		{
-			"name": "Bip01 R Hand",
+			"name": "Bip01 R Foot",
 			"parent": 20
 		}
 	],
@@ -1312,21 +1387,27 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 328,
-			"name": "arms.bmp",
-			"width": 504
+			"height": 256,
+			"name": "sbody.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 502,
-			"name": "legs.bmp",
-			"width": 380
+			"height": 512,
+			"name": "shair.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 244,
-			"name": "head.bmp",
-			"width": 416
+			"height": 256,
+			"name": "sface.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "fril.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

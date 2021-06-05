@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "wesker",
-					"polys": 830,
-					"verts": 431
+					"name": "body2",
+					"polys": 2747,
+					"verts": 1420
 				}
 			],
 			"name": "body"
@@ -146,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "ca6c57db5f6fde70c744e7b8dd7e2738",
-	"name": "RE_STARS_Richard.mdl",
+	"md5": "ec7a810fa0d64c5e86ca517aa5c6e77f",
+	"name": "C:\\Users\\Allan\\Desktop\\fixes\\NVA-amobe1\\NVA-amobe1.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,9 +1214,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1230996,
+	"size": 1712220,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1312,21 +1357,33 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 328,
-			"name": "arms.bmp",
-			"width": 504
+			"height": 512,
+			"name": "DDR_helmet.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 502,
+			"height": 512,
+			"name": "v_bodysn1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 255,
+			"name": "hands.bmp",
+			"width": 500
+		}, 
+		{
+			"flags": 0,
+			"height": 331,
 			"name": "legs.bmp",
-			"width": 380
+			"width": 228
 		}, 
 		{
 			"flags": 0,
-			"height": 244,
+			"height": 256,
 			"name": "head.bmp",
-			"width": 416
+			"width": 512
 		}
 	],
 	"version": 10

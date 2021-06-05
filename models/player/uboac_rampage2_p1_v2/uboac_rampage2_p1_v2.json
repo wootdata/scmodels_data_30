@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 17,
+			"bone": 16,
 			"name": "",
 			"type": 0
 		}
@@ -25,12 +25,32 @@
 		{
 			"models": [
 				{
-					"name": "wesker",
-					"polys": 830,
-					"verts": 431
+					"name": "DM_Gordon_Head1",
+					"polys": 356,
+					"verts": 215
 				}
 			],
 			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "uboa_kusari",
+					"polys": 816,
+					"verts": 408
+				}
+			],
+			"name": "gear"
+		}, 
+		{
+			"models": [
+				{
+					"name": "guti",
+					"polys": 2,
+					"verts": 1
+				}
+			],
+			"name": "guti"
 		}
 	],
 	"controllers": [
@@ -146,30 +166,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +321,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "ca6c57db5f6fde70c744e7b8dd7e2738",
-	"name": "RE_STARS_Richard.mdl",
+	"md5": "f345b12ab95de516d0713609ecf3c5ca",
+	"name": "uboac_rampage2_p1.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,9 +1234,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1230996,
+	"size": 905524,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1271,24 +1336,20 @@
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 16
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1296,15 +1357,15 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 19
 		}
 	],
 	"skins": 1,
@@ -1312,21 +1373,33 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 328,
-			"name": "arms.bmp",
-			"width": 504
+			"height": 253,
+			"name": "dm_base.bmp",
+			"width": 252
 		}, 
 		{
 			"flags": 0,
-			"height": 502,
-			"name": "legs.bmp",
-			"width": 380
+			"height": 8,
+			"name": "black.bmp",
+			"width": 8
 		}, 
 		{
 			"flags": 0,
-			"height": 244,
-			"name": "head.bmp",
-			"width": 416
+			"height": 1,
+			"name": "remapc_001_001_255.bmp",
+			"width": 4
+		}, 
+		{
+			"flags": 0,
+			"height": 63,
+			"name": "metal.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "guti.bmp",
+			"width": 256
 		}
 	],
 	"version": 10
