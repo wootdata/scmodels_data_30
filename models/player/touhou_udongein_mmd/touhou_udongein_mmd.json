@@ -25,7 +25,7 @@
 		{
 			"models": [
 				{
-					"name": "hair",
+					"name": "touhou_udongein_mmd_hair",
 					"polys": 3424,
 					"verts": 1717
 				}
@@ -35,7 +35,7 @@
 		{
 			"models": [
 				{
-					"name": "head",
+					"name": "touhou_udongein_mmd_head",
 					"polys": 2264,
 					"verts": 1207
 				}
@@ -45,7 +45,7 @@
 		{
 			"models": [
 				{
-					"name": "body",
+					"name": "touhou_udongein_mmd_body",
 					"polys": 3837,
 					"verts": 1804
 				}
@@ -55,7 +55,7 @@
 		{
 			"models": [
 				{
-					"name": "leg",
+					"name": "touhou_udongein_mmd_leg",
 					"polys": 2504,
 					"verts": 1263
 				}
@@ -206,14 +206,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -331,7 +331,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "b992dd7b105e82af36ab7e661412a548",
+	"md5": "d59b158d6a83b1ca30afecef2b0d9e8c",
 	"name": "touhou_udongein_mmd.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1291,7 +1291,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1636616,
+	"size": 1653004,
 	"skeleton": [
 		{
 			"name": "Bip01",

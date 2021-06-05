@@ -25,7 +25,7 @@
 		{
 			"models": [
 				{
-					"name": "body1",
+					"name": "touhou_inaba_tewi_body1",
 					"polys": 2628,
 					"verts": 1408
 				}
@@ -35,7 +35,7 @@
 		{
 			"models": [
 				{
-					"name": "body2",
+					"name": "touhou_inaba_tewi_body2",
 					"polys": 3302,
 					"verts": 1723
 				}
@@ -45,7 +45,7 @@
 		{
 			"models": [
 				{
-					"name": "head",
+					"name": "touhou_inaba_tewi_head",
 					"polys": 804,
 					"verts": 504
 				}
@@ -55,9 +55,9 @@
 		{
 			"models": [
 				{
-					"name": "face",
+					"name": "touhou_inaba_tewi_face",
 					"polys": 2988,
-					"verts": 1793
+					"verts": 1787
 				}
 			],
 			"name": "body"
@@ -65,9 +65,9 @@
 		{
 			"models": [
 				{
-					"name": "leg",
-					"polys": 3257,
-					"verts": 1654
+					"name": "touhou_inaba_tewi_leg",
+					"polys": 2504,
+					"verts": 1276
 				}
 			],
 			"name": "body"
@@ -75,9 +75,9 @@
 		{
 			"models": [
 				{
-					"name": "hair1",
+					"name": "touhou_inaba_tewi_hair1",
 					"polys": 2704,
-					"verts": 1730
+					"verts": 1728
 				}
 			],
 			"name": "body"
@@ -85,7 +85,7 @@
 		{
 			"models": [
 				{
-					"name": "hair2",
+					"name": "touhou_inaba_tewi_hair2",
 					"polys": 1028,
 					"verts": 670
 				}
@@ -95,7 +95,7 @@
 		{
 			"models": [
 				{
-					"name": "cr_hair1",
+					"name": "touhou_inaba_tewi_cr_hair1",
 					"polys": 3647,
 					"verts": 1890
 				}
@@ -105,7 +105,7 @@
 		{
 			"models": [
 				{
-					"name": "cr_hair2",
+					"name": "touhou_inaba_tewi_cr_hair2",
 					"polys": 2374,
 					"verts": 1217
 				}
@@ -115,7 +115,7 @@
 		{
 			"models": [
 				{
-					"name": "cr_hair3",
+					"name": "touhou_inaba_tewi_cr_hair3",
 					"polys": 2374,
 					"verts": 1216
 				}
@@ -125,7 +125,7 @@
 		{
 			"models": [
 				{
-					"name": "op",
+					"name": "touhou_inaba_tewi_op",
 					"polys": 894,
 					"verts": 452
 				}
@@ -135,9 +135,9 @@
 		{
 			"models": [
 				{
-					"name": "dress",
+					"name": "touhou_inaba_tewi_dress",
 					"polys": 3314,
-					"verts": 1886
+					"verts": 1882
 				}
 			],
 			"name": "body"
@@ -145,9 +145,9 @@
 		{
 			"models": [
 				{
-					"name": "dress0",
+					"name": "touhou_inaba_tewi_dress0",
 					"polys": 1532,
-					"verts": 764
+					"verts": 763
 				}
 			],
 			"name": "body"
@@ -296,14 +296,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -421,8 +421,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "aafd1a0cd11ed215b7529c55744b6c0e",
-	"name": "touhou_inaba_tewi.mdl",
+	"md5": "1cef9c7313f9a37116f54dfef604bf79",
+	"name": "tewi.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1381,7 +1381,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1777496,
+	"size": 1776756,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1501,15 +1501,15 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 100,
-			"name": "hair.bmp",
-			"width": 100
-		}, 
-		{
-			"flags": 0,
 			"height": 64,
 			"name": "white.bmp",
 			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 100,
+			"name": "hair.bmp",
+			"width": 100
 		}, 
 		{
 			"flags": 0,
