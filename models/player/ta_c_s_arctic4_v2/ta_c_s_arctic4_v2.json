@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 29,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 29,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 29,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 16,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +25,49 @@
 		{
 			"models": [
 				{
-					"name": "cof_simon_Leatherhoff_a_simon_new",
-					"polys": 3038,
-					"verts": 1541
+					"name": "1",
+					"polys": 4143,
+					"verts": 1505
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "2",
+					"polys": 3175,
+					"verts": 1171
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "fullbright",
+					"polys": 104,
+					"verts": 36
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Eye",
+					"polys": 528,
+					"verts": 268
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Armor",
+					"polys": 2146,
+					"verts": 1272
 				}
 			],
 			"name": "body"
@@ -35,7 +75,7 @@
 	],
 	"controllers": [
 		{
-			"bone": 12,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -43,7 +83,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 13,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -51,7 +91,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 14,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -59,7 +99,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 15,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -69,9 +109,30 @@
 	],
 	"events": [
 		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/combine_jump.wav",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/combine_jump.wav",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 9,
 			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/combine_die1.wav",
 			"sequence": 12,
 			"type": 0
 		}, 
@@ -83,9 +144,23 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/combine_die2.wav",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 15,
 			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/combine_die3.wav",
 			"sequence": 14,
 			"type": 0
 		}, 
@@ -97,9 +172,23 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/combine_die2.wav",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/combine_die3.wav",
 			"sequence": 16,
 			"type": 0
 		}, 
@@ -111,10 +200,38 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/combine_die3.wav",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
 			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/combine_die1.wav",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/combine_grenade.wav",
+			"sequence": 35,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/combine_grenade.wav",
+			"sequence": 40,
 			"type": 0
 		}, 
 		{
@@ -125,10 +242,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 50,
+			"type": 0
+		}, 
+		{
 			"event": 5001,
 			"frame": 0,
 			"options": "15",
 			"sequence": 53,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 54,
 			"type": 0
 		}, 
 		{
@@ -139,10 +270,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
 			"event": 5001,
 			"frame": 0,
 			"options": "15",
 			"sequence": 61,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 62,
 			"type": 0
 		}, 
 		{
@@ -153,10 +298,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 66,
+			"type": 0
+		}, 
+		{
 			"event": 5005,
 			"frame": 0,
 			"options": "muzzle_SG.txt",
 			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 70,
 			"type": 0
 		}, 
 		{
@@ -167,10 +326,52 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 80,
+			"type": 0
+		}, 
+		{
 			"event": 5005,
 			"frame": 0,
 			"options": "muzzle_MP5.txt",
 			"sequence": 83,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 84,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 88,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 92,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 116,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 122,
 			"type": 0
 		}, 
 		{
@@ -216,6 +417,20 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 135,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 136,
+			"type": 0
+		}, 
+		{
 			"event": 5001,
 			"frame": 0,
 			"options": "15",
@@ -244,6 +459,20 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 143,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 144,
+			"type": 0
+		}, 
+		{
 			"event": 5005,
 			"frame": 0,
 			"options": "muzzle_spaw.txt",
@@ -251,10 +480,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 149,
+			"type": 0
+		}, 
+		{
 			"event": 5005,
 			"frame": 0,
 			"options": "muzzle_spaw.txt",
 			"sequence": 153,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 155,
 			"type": 0
 		}, 
 		{
@@ -272,6 +515,13 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 162,
+			"type": 0
+		}, 
+		{
 			"event": 5011,
 			"frame": 0,
 			"options": "15",
@@ -286,10 +536,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 168,
+			"type": 0
+		}, 
+		{
 			"event": 5005,
 			"frame": 0,
 			"options": "muzzle_spaw.txt",
 			"sequence": 171,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 172,
 			"type": 0
 		}, 
 		{
@@ -298,11 +562,18 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/combine_reload.wav",
+			"sequence": 176,
+			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "a4a35f88b1e09a34c2cb8f5ee73d4baf",
-	"name": "../compiled/cryoffear_simon.mdl",
+	"md5": "938215c71f9825b5f4a85479e0e50fbb",
+	"name": "TA_c_soldier_armor.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -437,7 +708,7 @@
 		}, 
 		{
 			"fps": 13.000000,
-			"frames": 1,
+			"frames": 2,
 			"name": "ref_hold_wrench"
 		}, 
 		{
@@ -452,7 +723,7 @@
 		}, 
 		{
 			"fps": 13.000000,
-			"frames": 1,
+			"frames": 2,
 			"name": "crouch_hold_wrench"
 		}, 
 		{
@@ -477,7 +748,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 1,
+			"frames": 2,
 			"name": "ref_hold_gren"
 		}, 
 		{
@@ -502,7 +773,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 1,
+			"frames": 2,
 			"name": "crouch_hold_gren"
 		}, 
 		{
@@ -1212,7 +1483,7 @@
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 1,
+			"frames": 2,
 			"name": "ShannonCaldwell_v1.2"
 		}, 
 		{
@@ -1241,11 +1512,6 @@
 			"name": "use_console_loop"
 		}, 
 		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
 			"fps": 18.000000,
 			"frames": 66,
 			"name": "action_retina"
@@ -1259,19 +1525,9 @@
 			"fps": 10.000000,
 			"frames": 22,
 			"name": "action_wave"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 31,
-			"name": "pro"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 1,
-			"name": "Fixed {T.Ba.5} By FreeKill"
 		}
 	],
-	"size": 2318004,
+	"size": 3368516,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1294,32 +1550,16 @@
 			"parent": 3
 		}, 
 		{
-			"name": "Bip01 L Toe0",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 L Toe01",
-			"parent": 5
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 7
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 R Toe0",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Toe01",
-			"parent": 10
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -1327,95 +1567,87 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 12
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 13
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 14
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 15
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 L Arm",
-			"parent": 16
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 17
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 18
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 19
+			"parent": 15
 		}, 
 		{
-			"name": "Bip01 L Finger0",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 24
+			"name": "Bip01 L Wrist",
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Arm",
-			"parent": 16
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 26
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 27
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 28
+			"parent": 20
 		}, 
 		{
-			"name": "Bip01 R Finger0",
-			"parent": 29
+			"name": "Bip01 R Hand1",
+			"parent": 21
 		}, 
 		{
-			"name": "Bip01 R Finger01",
-			"parent": 30
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 29
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 32
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 33
+			"name": "Bip01 R Wrist",
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 Head",
-			"parent": 16
+			"parent": 12
+		}, 
+		{
+			"name": "Eye",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Leg Helper",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 R Leg Helper",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Arm1 Helper",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R Arm1 Helper",
+			"parent": 19
 		}
 	],
 	"skins": 1,
@@ -1423,51 +1655,45 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "head_face.bmp",
-			"width": 512
+			"height": 1024,
+			"name": "combinesoldiersheet.bmp",
+			"width": 1024
 		}, 
 		{
-			"flags": 64,
-			"height": 256,
-			"name": "hairbits_sharp2.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
+			"flags": 4,
 			"height": 128,
-			"name": "mouth.bmp",
+			"name": "eyefullbright.bmp",
 			"width": 128
 		}, 
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "bag.bmp",
-			"width": 512
+			"height": 128,
+			"name": "deadeye.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 36,
+			"height": 102,
+			"name": "fullbright.bmp",
+			"width": 104
+		}, 
+		{
+			"flags": 38,
+			"height": 128,
+			"name": "combineeye_anamorphic.bmp",
+			"width": 128
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "glove_256.bmp",
-			"width": 256
+			"height": 1024,
+			"name": "chestplate.bmp",
+			"width": 1024
 		}, 
 		{
-			"flags": 0,
-			"height": 512,
-			"name": "hoodie_grey.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "shoe_cut.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "jeans.bmp",
-			"width": 512
+			"flags": 35,
+			"height": 64,
+			"name": "ArmorChrome.bmp",
+			"width": 64
 		}
 	],
 	"version": 10

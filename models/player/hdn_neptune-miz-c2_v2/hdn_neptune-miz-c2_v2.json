@@ -1,28 +1,12 @@
 {
-	"attachments": [
-		{
-			"bone": 21,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 21,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 21,
-			"name": "",
-			"type": 0
-		}
-	],
+	"attachments": [],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "body",
-					"polys": 1776,
-					"verts": 924
+					"name": "head_nepmizu",
+					"polys": 2343,
+					"verts": 1066
 				}
 			],
 			"name": "body"
@@ -30,9 +14,9 @@
 		{
 			"models": [
 				{
-					"name": "head",
-					"polys": 812,
-					"verts": 467
+					"name": "body_nepmizu",
+					"polys": 2868,
+					"verts": 1381
 				}
 			],
 			"name": "body"
@@ -40,9 +24,39 @@
 		{
 			"models": [
 				{
-					"name": "hair",
-					"polys": 1014,
-					"verts": 596
+					"name": "body1_nepmizu",
+					"polys": 2120,
+					"verts": 1072
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "body2_nepmizu",
+					"polys": 2868,
+					"verts": 1484
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Hair_nepmizu",
+					"polys": 3225,
+					"verts": 1630
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "acce_nepmizu",
+					"polys": 2160,
+					"verts": 1104
 				}
 			],
 			"name": "body"
@@ -50,7 +64,7 @@
 	],
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 2,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -58,7 +72,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 3,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -66,7 +80,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 4,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -74,15 +88,37 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 5,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
+		}, 
+		{
+			"bone": 7,
+			"end": 15.000000,
+			"index": 4,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
 		}
 	],
 	"events": [
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/nepnepjump.wav",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/nepnepjump2.wav",
+			"sequence": 9,
+			"type": 0
+		}, 
 		{
 			"event": 2001,
 			"frame": 10,
@@ -182,10 +218,101 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget_meel2.wav",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget_meel1.wav",
+			"sequence": 22,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/charge2.wav",
+			"sequence": 25,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/charge2_shoot.wav",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/charge1.wav",
+			"sequence": 28,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/charge1_shoot.wav",
+			"sequence": 30,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget_gren2.wav",
+			"sequence": 31,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget_gren1.wav",
+			"sequence": 36,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget_gren3.wav",
+			"sequence": 41,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget_gren3.wav",
+			"sequence": 44,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget04.wav",
+			"sequence": 47,
+			"type": 0
+		}, 
+		{
 			"event": 5011,
 			"frame": 0,
 			"options": "21",
 			"sequence": 49,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading01.wav",
+			"sequence": 50,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget04.wav",
+			"sequence": 51,
 			"type": 0
 		}, 
 		{
@@ -196,10 +323,38 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading06.wav",
+			"sequence": 54,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget04.wav",
+			"sequence": 55,
+			"type": 0
+		}, 
+		{
 			"event": 5011,
 			"frame": 0,
 			"options": "31",
 			"sequence": 57,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading02.wav",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget04.wav",
+			"sequence": 59,
 			"type": 0
 		}, 
 		{
@@ -210,10 +365,31 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading05.wav",
+			"sequence": 62,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget01.wav",
+			"sequence": 63,
+			"type": 0
+		}, 
+		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
 			"sequence": 65,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget01.wav",
+			"sequence": 67,
 			"type": 0
 		}, 
 		{
@@ -224,10 +400,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget_rare1.wav",
+			"sequence": 71,
+			"type": 0
+		}, 
+		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
 			"sequence": 73,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget_rare2.wav",
+			"sequence": 74,
 			"type": 0
 		}, 
 		{
@@ -238,10 +428,31 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget02.wav",
+			"sequence": 77,
+			"type": 0
+		}, 
+		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
 			"sequence": 79,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading04.wav",
+			"sequence": 80,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget02.wav",
+			"sequence": 81,
 			"type": 0
 		}, 
 		{
@@ -252,6 +463,34 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading03.wav",
+			"sequence": 84,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget_rare2.wav",
+			"sequence": 93,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget_rare1.wav",
+			"sequence": 96,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget03.wav",
+			"sequence": 105,
+			"type": 0
+		}, 
+		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
@@ -259,10 +498,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget03.wav",
+			"sequence": 108,
+			"type": 0
+		}, 
+		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
 			"sequence": 110,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weaponget.wav",
+			"sequence": 111,
 			"type": 0
 		}, 
 		{
@@ -280,6 +533,13 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget02.wav",
+			"sequence": 117,
+			"type": 0
+		}, 
+		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
@@ -291,6 +551,62 @@
 			"frame": 0,
 			"options": "51",
 			"sequence": 121,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading02.wav",
+			"sequence": 122,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget_rare2.wav",
+			"sequence": 123,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget_rare1.wav",
+			"sequence": 126,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget03.wav",
+			"sequence": 129,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading06.wav",
+			"sequence": 136,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget03.wav",
+			"sequence": 137,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading01.wav",
+			"sequence": 144,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weaponget.wav",
+			"sequence": 145,
 			"type": 0
 		}, 
 		{
@@ -308,6 +624,27 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloadintense02.wav",
+			"sequence": 149,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading03.wav",
+			"sequence": 150,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weaponget.wav",
+			"sequence": 151,
+			"type": 0
+		}, 
+		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
@@ -319,6 +656,27 @@
 			"frame": 0,
 			"options": "51",
 			"sequence": 154,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloadintense02.wav",
+			"sequence": 155,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading03.wav",
+			"sequence": 156,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget02.wav",
+			"sequence": 157,
 			"type": 0
 		}, 
 		{
@@ -336,6 +694,20 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading01.wav",
+			"sequence": 162,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weaponget.wav",
+			"sequence": 163,
+			"type": 0
+		}, 
+		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
@@ -350,6 +722,20 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloading02.wav",
+			"sequence": 168,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget01.wav",
+			"sequence": 169,
+			"type": 0
+		}, 
+		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
@@ -359,8 +745,15 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "voice/girl/coverme.wav",
+			"options": "player/playersounds/neptune/reloading06.wav",
 			"sequence": 172,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/weapget01.wav",
+			"sequence": 173,
 			"type": 0
 		}, 
 		{
@@ -369,21 +762,28 @@
 			"options": "51",
 			"sequence": 175,
 			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/neptune/reloadintense02.wav",
+			"sequence": 176,
+			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "e3c16cc5ba090203807e55794afb16fa",
-	"name": "Monogatari_hanekawa_B.mdl",
+	"md5": "27e05c4a3df9bc33d66134e3139ad057",
+	"name": "HDN_Neptune-mizugi.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
-			"frames": 30,
+			"frames": 102,
 			"name": "By_"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 30,
+			"frames": 102,
 			"name": "idle"
 		}, 
 		{
@@ -398,7 +798,7 @@
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 24,
+			"frames": 17,
 			"name": "walk2handed"
 		}, 
 		{
@@ -413,27 +813,27 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 30,
+			"frames": 18,
 			"name": "crouch_idle"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 70,
+			"frames": 97,
 			"name": "jump"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 92,
+			"frames": 36,
 			"name": "long_jump"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 34,
+			"frames": 47,
 			"name": "swim"
 		}, 
 		{
 			"fps": 5.000000,
-			"frames": 34,
+			"frames": 41,
 			"name": "treadwater"
 		}, 
 		{
@@ -448,7 +848,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 36,
+			"frames": 26,
 			"name": "die_backwards"
 		}, 
 		{
@@ -502,18 +902,18 @@
 			"name": "crouch_shoot_crowbar"
 		}, 
 		{
-			"fps": 12.000000,
-			"frames": 31,
+			"fps": 7.000000,
+			"frames": 13,
 			"name": "ref_cock_wrench"
 		}, 
 		{
-			"fps": 12.000000,
-			"frames": 31,
+			"fps": 13.000000,
+			"frames": 2,
 			"name": "ref_hold_wrench"
 		}, 
 		{
-			"fps": 24.000000,
-			"frames": 16,
+			"fps": 30.000000,
+			"frames": 39,
 			"name": "ref_shoot_wrench"
 		}, 
 		{
@@ -528,7 +928,7 @@
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 16,
+			"frames": 31,
 			"name": "crouch_shoot_wrench"
 		}, 
 		{
@@ -623,7 +1023,7 @@
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 13,
+			"frames": 9,
 			"name": "ref_shoot_onehanded"
 		}, 
 		{
@@ -638,7 +1038,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_onehanded"
 		}, 
 		{
@@ -678,7 +1078,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_python"
 		}, 
 		{
@@ -948,7 +1348,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_bowscope"
 		}, 
 		{
@@ -1178,12 +1578,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 30,
+			"frames": 21,
 			"name": "ref_aim_sniperscope"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 30,
+			"frames": 7,
 			"name": "ref_shoot_sniperscope"
 		}, 
 		{
@@ -1233,7 +1633,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 7,
+			"frames": 5,
 			"name": "ref_shoot_saw"
 		}, 
 		{
@@ -1283,7 +1683,7 @@
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 2,
+			"frames": 81,
 			"name": "ShannonCaldwell_v1.2"
 		}, 
 		{
@@ -1305,9 +1705,39 @@
 			"fps": 15.000000,
 			"frames": 36,
 			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 102,
+			"name": "Converted to SC by tap_chan"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 102,
+			"name": "TY 2 Shannon, Tenko and Nekomata"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "For the animations"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "Also randomtoothbrush for"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "model rip"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "Do not Rename please!"
 		}
 	],
-	"size": 828604,
+	"size": 1950052,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1318,16 +1748,72 @@
 			"parent": 0
 		}, 
 		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 13
+		}, 
+		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 2
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 3
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1335,66 +1821,10 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 R Hand",
 			"parent": 20
 		}
 	],
@@ -1403,33 +1833,45 @@
 	"textures": [
 		{
 			"flags": 1,
-			"height": 256,
-			"name": "body.bmp",
-			"width": 256
+			"height": 512,
+			"name": "hair_c-nepnep.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "face_c-nepnep.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "acce_swimsuit-nepnep.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 1,
 			"height": 128,
-			"name": "hand.bmp",
+			"name": "Ported&rigged to SC by Tap_chan.bmp",
 			"width": 128
 		}, 
 		{
 			"flags": 1,
-			"height": 256,
-			"name": "face.bmp",
-			"width": 256
+			"height": 512,
+			"name": "body_swimsuit-nepnep.bmp",
+			"width": 512
 		}, 
 		{
-			"flags": 1,
-			"height": 256,
-			"name": "eye.bmp",
-			"width": 256
+			"flags": 33,
+			"height": 128,
+			"name": "thx 2 Tenko or shannon, for anims.bmp",
+			"width": 128
 		}, 
 		{
-			"flags": 1,
-			"height": 256,
-			"name": "hair.bmp",
-			"width": 256
+			"flags": 33,
+			"height": 128,
+			"name": "thx 2 Nekomata's Author for some anims.bmp",
+			"width": 128
 		}
 	],
 	"version": 10
