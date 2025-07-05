@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 23,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "Scream",
-					"polys": 1833,
-					"verts": 942
+					"name": "cardboard_man",
+					"polys": 192,
+					"verts": 134
 				}
 			],
 			"name": "body"
@@ -35,7 +30,7 @@
 	],
 	"controllers": [
 		{
-			"bone": 14,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -43,7 +38,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 15,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -51,7 +46,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 16,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -59,7 +54,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 17,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -301,8 +296,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "ff37e6bc65d5eb7676f054e5e57b8fc7",
-	"name": "Scream.mdl",
+	"md5": "adc5b066f3b50a533444e95f92a88a49",
+	"name": "cardboard_man.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -323,12 +318,12 @@
 		{
 			"fps": 40.000000,
 			"frames": 25,
-			"name": "run2"
+			"name": "run"
 		}, 
 		{
 			"fps": 20.000000,
 			"frames": 17,
-			"name": "walk2handed"
+			"name": "walk"
 		}, 
 		{
 			"fps": 20.000000,
@@ -1247,7 +1242,7 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 66,
+			"frames": 71,
 			"name": "action_retina"
 		}, 
 		{
@@ -1261,7 +1256,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1635152,
+	"size": 876168,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1284,40 +1279,16 @@
 			"parent": 3
 		}, 
 		{
-			"name": "Bip01 L Toe0",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 L Toe01",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Toe02",
-			"parent": 6
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 8
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Toe0",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 R Toe01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 R Toe02",
-			"parent": 12
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -1325,55 +1296,55 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 14
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 15
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 16
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 17
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 Head",
-			"parent": 18
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm",
-			"parent": 18
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 20
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 21
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 22
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm",
-			"parent": 18
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -1381,27 +1352,21 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 255,
-			"name": "glove.bmp",
-			"width": 500
+			"height": 192,
+			"name": "cardboard3.bmp",
+			"width": 192
 		}, 
 		{
 			"flags": 0,
-			"height": 509,
-			"name": "DM_Base.bmp",
-			"width": 504
+			"height": 128,
+			"name": "cardboard2.bmp",
+			"width": 128
 		}, 
 		{
 			"flags": 0,
-			"height": 389,
-			"name": "Mask.bmp",
-			"width": 488
-		}, 
-		{
-			"flags": 0,
-			"height": 407,
-			"name": "neoLeatherBoots.bmp",
-			"width": 472
+			"height": 128,
+			"name": "cardboard1.bmp",
+			"width": 128
 		}
 	],
 	"version": 10
