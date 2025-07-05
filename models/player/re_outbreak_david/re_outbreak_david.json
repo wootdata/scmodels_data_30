@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "83f9f782b163284a3e6bef18ac46a666",
-	"name": "RE_Outbreak_David.mdl",
+	"md5": "216dcccce13e26159f3626a5c0c5a0c0",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\modet",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1175996,
+	"size": 1384308,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1312,21 +1312,21 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 503,
+			"height": 512,
 			"name": "terror_body.bmp",
-			"width": 504
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 250,
+			"height": 512,
 			"name": "hair.bmp",
-			"width": 252
+			"width": 512
 		}, 
 		{
 			"flags": 0,
 			"height": 250,
 			"name": "militiahead1.bmp",
-			"width": 252
+			"width": 256
 		}
 	],
 	"version": 10

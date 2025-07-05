@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "ca6c57db5f6fde70c744e7b8dd7e2738",
-	"name": "RE_STARS_Richard.mdl",
+	"md5": "27525e13b970d95197bef48c3994d46f",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\mode",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1230996,
+	"size": 1232924,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1318,9 +1318,9 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 502,
+			"height": 503,
 			"name": "legs.bmp",
-			"width": 380
+			"width": 384
 		}, 
 		{
 			"flags": 0,
