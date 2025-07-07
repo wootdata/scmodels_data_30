@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "64dcd09cc9d483619c342e5253cda896",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kate_swedish.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

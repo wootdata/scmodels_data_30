@@ -58,6 +58,7 @@
 			"name": "Armour"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2d3d5bd01f8e359318690db9dd261ab9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USMC]SSgt_Nantz.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

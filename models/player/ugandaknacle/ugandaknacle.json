@@ -62,6 +62,7 @@
 			"name": "6"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1579696486,
 	"events": [
@@ -138,7 +139,11 @@
 	],
 	"id": 1414743113,
 	"md5": "609fc4efde38cd12e8fff52b7b312f1f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "medic-mod.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

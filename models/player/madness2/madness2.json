@@ -17,6 +17,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1266052026,
 	"events": [
@@ -254,7 +255,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4ca37ed76dcb9c41b561e55d77c9bc39",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "madness2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

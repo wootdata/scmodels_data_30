@@ -62,6 +62,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3bab8676359bdc9a45fa0b505addcc60",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hinanai.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f38d6df346c1a92732e432031f121b56",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gamesaba.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f56a249cf48cbc5bfcaa13b6a7abe09b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BigBALLedMan.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

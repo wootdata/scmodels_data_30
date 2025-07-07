@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "652521b280344e039dedf21a294610aa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sbo_hunted.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

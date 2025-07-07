@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 15,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "34b198641894a72b7c0eb9b7bc61ab83",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "army_sniper.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

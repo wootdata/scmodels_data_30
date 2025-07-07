@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d0c43dce04b013c02a28ac03e14cb723",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "s8n_techno.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a410cdf3d2907aa1238d75954d542940",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HellsAngel2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

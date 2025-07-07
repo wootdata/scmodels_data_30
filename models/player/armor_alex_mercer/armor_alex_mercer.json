@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ab3bdc0b860bc6681bf48b92424fd020",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -53,6 +53,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 51,
@@ -307,7 +308,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5f49aa840e50388eb0190671b294b8a1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "angel_mdl.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

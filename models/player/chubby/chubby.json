@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1167761604,
 	"events": [],
 	"id": 1414743113,
 	"md5": "92f9a56518cefef8df5b01a6a3f17418",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/chumtoad.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

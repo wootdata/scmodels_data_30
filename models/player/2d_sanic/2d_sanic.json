@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1586473762,
 	"events": [
@@ -272,7 +273,11 @@
 	],
 	"id": 1414743113,
 	"md5": "faf58345c154931c7a6363d86a988a4a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sanictest.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

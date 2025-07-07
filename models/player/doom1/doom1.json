@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "88f16b5d4bfeb71e6f88326cf3db6b8e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/q2marine/q2marine.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b5871828d12f9f9d13ec99ac74407e8a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Admin\\Desktop\\ASAS\\touhou_chen.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

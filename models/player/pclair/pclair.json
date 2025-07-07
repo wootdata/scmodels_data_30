@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "13d46dd1297b058291fcc263ef81fb8b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Clair.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "834a97e2fd9179c4c6ce8adcc0ea4570",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Prison_guard.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

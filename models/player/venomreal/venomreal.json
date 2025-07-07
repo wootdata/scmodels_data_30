@@ -43,6 +43,7 @@
 			"name": "VenomB"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7193344eefabde74408237c97ff43acf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Rory\\Desktop\\simon sick and dead\\David_Leatherhoff_fix\\",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

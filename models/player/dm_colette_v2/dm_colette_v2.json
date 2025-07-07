@@ -48,6 +48,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -326,7 +327,11 @@
 	],
 	"id": 1414743113,
 	"md5": "70db4b124ae6009ee8228df5df893b21",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dm_colette.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "60f9d7fdf02b09441a18c0378a16a286",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TEISEL.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

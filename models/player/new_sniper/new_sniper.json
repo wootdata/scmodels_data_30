@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c0dcb56269a20ee6aed89d117e1e9b98",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Sniper.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

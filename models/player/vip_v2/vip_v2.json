@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bb1df88c73dc4975b85dbf0e2009102b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "vip.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

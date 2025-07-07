@@ -12,12 +12,17 @@
 			"name": "parts"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1497364809,
 	"events": [],
 	"id": 1414743113,
 	"md5": "ac8f173a0b7ba28a69dd721ce7871884",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\models\\arc_bush\\arc_bush.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -48,6 +48,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "20ed288fd8de5b5efa0430a69c7c1283",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "csNeo_witch.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

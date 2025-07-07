@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "514fdb88d82c6cf0c51fbf8fa684e9a9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "grunt_tfc_sniper.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -32,6 +32,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1610584223,
 	"events": [
@@ -269,7 +270,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1362a0273dae9cfe46b9e92237657d8b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Bogdanoff.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

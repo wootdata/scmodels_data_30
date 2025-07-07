@@ -43,6 +43,7 @@
 			"name": "C4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e9ff6778ffca1fc48c55fe823ed1d526",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "vegita.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

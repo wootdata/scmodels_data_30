@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3ddbe11b91a2b5c86e696ca8a7f687b2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "carrianne.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

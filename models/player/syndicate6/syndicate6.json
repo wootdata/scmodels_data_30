@@ -48,6 +48,7 @@
 			"name": "tools"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a146289215e9325996b544dd6883d24e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "syndicate6.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

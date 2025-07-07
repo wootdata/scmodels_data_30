@@ -33,6 +33,7 @@
 			"name": "winkler"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ec932bef0e9b0bdc0bc8ad7bab5f0137",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SF_Krystal.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

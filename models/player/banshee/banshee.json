@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3c1f86e2102ee64b6971496d580a1b08",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "banshee.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

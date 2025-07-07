@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "581d56d608fd6e0eb9471ec8b8234f9f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "model_notfound.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

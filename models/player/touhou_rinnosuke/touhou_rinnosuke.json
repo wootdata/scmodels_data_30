@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f65309fa70879f37fa056ce4b14f4c0c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_Rinnosuke.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

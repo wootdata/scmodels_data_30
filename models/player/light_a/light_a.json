@@ -23,6 +23,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -293,7 +294,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8c5fb0415fb3ed5fb60eb06cfaa2176f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "light_a.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

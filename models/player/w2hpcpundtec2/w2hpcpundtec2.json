@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c8db14524c897195fe9df0159320e040",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "W2HPCPunDTEC2.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

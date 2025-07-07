@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e642c05ad29b152017816092d444f723",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "para_cook.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

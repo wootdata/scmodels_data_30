@@ -123,6 +123,7 @@
 			"name": "Thing"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -393,7 +394,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cc248893b235f42be8cd9e220048bc84",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "medic_blue.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

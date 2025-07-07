@@ -103,6 +103,7 @@
 			"name": "gatito"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -436,7 +437,11 @@
 	],
 	"id": 1414743113,
 	"md5": "da9d34926a66fd2e332a17c43d961fa9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_GatiitoHalloween.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -78,6 +78,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -412,7 +413,11 @@
 	],
 	"id": 1414743113,
 	"md5": "90d5dd430ee2258c90b5cae5ff96568c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Green_Heart.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

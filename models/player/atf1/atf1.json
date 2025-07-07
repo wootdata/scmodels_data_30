@@ -43,6 +43,7 @@
 			"name": "C4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f7225034239e56268190d78f2dd00cb8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "atf.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

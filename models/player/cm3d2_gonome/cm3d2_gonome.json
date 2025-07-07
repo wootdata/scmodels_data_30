@@ -383,6 +383,7 @@
 			"name": "gonome"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -982,7 +983,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a76adc12cd17a9e23d064f79eb43151c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "P_gonome.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

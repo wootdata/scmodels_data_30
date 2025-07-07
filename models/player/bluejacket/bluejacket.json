@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "571f7c828dc7515d0db8b106c9c0f5f2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bluejacket.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

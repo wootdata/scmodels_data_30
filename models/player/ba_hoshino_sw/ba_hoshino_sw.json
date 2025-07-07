@@ -273,6 +273,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -921,7 +922,11 @@
 	],
 	"id": 1414743113,
 	"md5": "591c032593ff9e9e418d5b1a0da43028",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BA_Hoshino_SW.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

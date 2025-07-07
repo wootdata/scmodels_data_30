@@ -58,6 +58,7 @@
 			"name": "Armour"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "00c1e9acb2422f5558edf65a1d07cb83",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USMC]LCpl_Kitagawa.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

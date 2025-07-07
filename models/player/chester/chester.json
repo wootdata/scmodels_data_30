@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -201,7 +202,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8139ced6ca2d821b4928e2e1a673eadb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "chester.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

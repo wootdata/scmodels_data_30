@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4c8374cd2f407aa8ab1470a863ce2ff0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Maryoshi143.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

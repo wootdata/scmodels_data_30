@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ff37e6bc65d5eb7676f054e5e57b8fc7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Scream.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

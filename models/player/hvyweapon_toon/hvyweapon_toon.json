@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b3b5fb11a2c7547e8a564a2707b113a1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hvyweapon_toon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

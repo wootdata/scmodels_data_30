@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "69da66fcfda8a9b6a17a8e8d2004ea87",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/TRINITYrage/TRINITYrage.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

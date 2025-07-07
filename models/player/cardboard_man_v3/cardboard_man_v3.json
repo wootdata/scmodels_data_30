@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "adc5b066f3b50a533444e95f92a88a49",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cardboard_man.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

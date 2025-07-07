@@ -58,6 +58,7 @@
 			"name": "Armour"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b1262cc9edc82f9058da3dd6c8bb09d0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USMC]PFC_Soucy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

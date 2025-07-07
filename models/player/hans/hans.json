@@ -63,6 +63,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8e61cfad4c7f749d689001267fb1de13",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hans.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

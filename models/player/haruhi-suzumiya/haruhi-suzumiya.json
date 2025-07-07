@@ -53,6 +53,7 @@
 			"name": "Haruhi"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "286f87fa38b3db3fa5c3c9ac3e568c3a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Haruhi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

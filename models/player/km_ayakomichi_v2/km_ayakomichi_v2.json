@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -374,7 +375,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a407eaddc60e1abd27009f89b2037468",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KM_AyaKomichi.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

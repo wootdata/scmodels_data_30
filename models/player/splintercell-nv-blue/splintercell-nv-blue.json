@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2bd058fe4d9b39d59876ad6c5c3463f2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "massn.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

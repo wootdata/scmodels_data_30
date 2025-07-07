@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "71e49fd55fa6e908d74694291d7c4967",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\Juegos\\Imperium Games\\SvenCoop\\models\\player\\devilrobo\\devilr<",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5a1e7466f79c97a4338ca5a09d1b420d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sol_char_s5.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

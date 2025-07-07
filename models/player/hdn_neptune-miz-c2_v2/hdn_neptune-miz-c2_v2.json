@@ -62,6 +62,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -774,7 +775,11 @@
 	],
 	"id": 1414743113,
 	"md5": "27e05c4a3df9bc33d66134e3139ad057",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_Neptune-mizugi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

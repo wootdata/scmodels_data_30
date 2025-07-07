@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6f15b63592f621cb18a164b51a3cce06",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cof_simon_zooyork.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

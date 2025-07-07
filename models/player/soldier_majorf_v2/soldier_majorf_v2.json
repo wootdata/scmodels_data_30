@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -285,7 +286,11 @@
 	],
 	"id": 1414743113,
 	"md5": "950d8ee99149bff24db4a739160a1fd8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_majorf.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

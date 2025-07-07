@@ -153,6 +153,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -447,7 +448,11 @@
 	],
 	"id": 1414743113,
 	"md5": "abe181c681cceaa49fa805344cf9c468",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "lucario_pokken.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

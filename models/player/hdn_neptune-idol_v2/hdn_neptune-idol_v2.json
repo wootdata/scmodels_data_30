@@ -62,6 +62,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -774,7 +775,11 @@
 	],
 	"id": 1414743113,
 	"md5": "afd54f88767eb6675d906568bf488ff2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_Neptune-idol.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

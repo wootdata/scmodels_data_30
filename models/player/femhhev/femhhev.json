@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 951276332,
 	"events": [
@@ -123,7 +124,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c5513dc291d77c9cedfabfb0afd4e0ee",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:/Sierra/Half-Life/valve/models/player/HHEVa/HHEVa.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

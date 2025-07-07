@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3c5d0818fb42907f49a6f09ca9f67d24",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_ikusan.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

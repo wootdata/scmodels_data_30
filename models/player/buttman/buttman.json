@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b2ef5d2e14b87657539a4082804b52ce",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "buttman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

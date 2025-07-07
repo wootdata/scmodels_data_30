@@ -163,6 +163,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -812,7 +813,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f01e3decb03956772d9d69090b4928a4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "yozora_mel.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

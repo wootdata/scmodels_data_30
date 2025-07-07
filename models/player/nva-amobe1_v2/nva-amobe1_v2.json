@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ec7a810fa0d64c5e86ca517aa5c6e77f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Allan\\Desktop\\fixes\\NVA-amobe1\\NVA-amobe1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

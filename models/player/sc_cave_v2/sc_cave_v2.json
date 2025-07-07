@@ -53,6 +53,7 @@
 			"name": "legs"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -366,7 +367,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ead34fb5a6e67602350e9b0031e55c59",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sc_cave.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

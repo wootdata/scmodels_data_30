@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -394,7 +395,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4503a99ab07dcdb7b52f909559fdc983",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "leet.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

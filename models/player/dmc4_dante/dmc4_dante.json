@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cfcbe5317dfc19f98cb43767c2f7ee31",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dmc4_dante.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

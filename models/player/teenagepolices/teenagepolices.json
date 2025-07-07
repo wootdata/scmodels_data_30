@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "63bd593ea8d3ffb6bad6da58755d15e3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "e:\\valve/models/player/Limp/Limp.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

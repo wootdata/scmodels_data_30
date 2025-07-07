@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -772,7 +773,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b6eadff42fe6372923c712e1aedbbb50",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Closers_Tina.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

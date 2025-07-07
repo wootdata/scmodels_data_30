@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6a430dd3dbb2e444060bbc9efd2e2d65",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nagatow.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

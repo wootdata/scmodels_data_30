@@ -58,6 +58,7 @@
 			"name": "gorrito"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -881,7 +882,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a37690a209fae4c4242be4f35530b64a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "robo_1317_ap_gay.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
