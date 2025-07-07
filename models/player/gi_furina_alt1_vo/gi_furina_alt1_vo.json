@@ -860,11 +860,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ff2d266a20e60b0008c73711d5b09b12",
-	"metahook_external": false,
+	"metahook_external": true,
 	"metahook_ragdoll": false,
 	"name": "GI_Furina_alt1.mdl",
 	"preview": true,
-	"readme": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
