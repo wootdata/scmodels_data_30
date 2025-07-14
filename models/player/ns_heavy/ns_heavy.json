@@ -306,6 +306,7 @@
 	"md5": "c36fa0426c8a6046d27422c51ac9b576",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "example.mdl",
 	"preview": false,
 	"readme": false,

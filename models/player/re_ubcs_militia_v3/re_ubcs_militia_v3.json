@@ -306,6 +306,7 @@
 	"md5": "8d446d2333db930bf545a34f35c341ce",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "merc.mdl",
 	"preview": true,
 	"readme": false,

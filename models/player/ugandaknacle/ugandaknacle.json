@@ -141,6 +141,7 @@
 	"md5": "609fc4efde38cd12e8fff52b7b312f1f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "medic-mod.mdl",
 	"preview": true,
 	"readme": false,

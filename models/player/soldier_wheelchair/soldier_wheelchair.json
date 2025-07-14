@@ -243,6 +243,7 @@
 	"md5": "a15abd77cabfe2dd6662d63a11b1afdc",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "sci_wheelchair.mdl",
 	"preview": true,
 	"readme": false,

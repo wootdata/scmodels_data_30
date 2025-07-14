@@ -306,6 +306,7 @@
 	"md5": "840b8523fe3c03d1ad1db0d4c2f987e2",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "sniper.mdl",
 	"preview": true,
 	"readme": false,
