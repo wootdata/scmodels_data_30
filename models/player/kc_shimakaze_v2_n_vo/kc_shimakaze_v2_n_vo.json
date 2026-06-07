@@ -221,7 +221,7 @@
 			"type": 32
 		}
 	],
-	"date": 1703616261,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 5004,
@@ -767,6 +767,7 @@
 	"md5": "8b960f6bbae35e8de23380273d52ada8",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "KC_shimakaze_v2_N.mdl",
 	"preview": true,
 	"readme": false,

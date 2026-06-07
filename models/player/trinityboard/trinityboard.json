@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 960370120,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "69da66fcfda8a9b6a17a8e8d2004ea87",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/TRINITYrage/TRINITYrage.mdl",
 	"preview": true,
 	"readme": false,

@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1121426998,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "3e1a9ca8ff33d1279dd0e542169f745c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/irongiant/irongiant.mdl",
 	"preview": true,
 	"readme": false,

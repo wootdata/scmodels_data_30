@@ -133,7 +133,7 @@
 			"type": 8
 		}
 	],
-	"date": 1591326315,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -245,6 +245,7 @@
 	"md5": "4329e7b1f2365b0ac64763f6bb0d6546",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "palta.mdl",
 	"preview": true,
 	"readme": false,

@@ -73,7 +73,7 @@
 			"type": 8
 		}
 	],
-	"date": 1299798230,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -199,6 +199,7 @@
 	"md5": "e35dfb52e05bc646f619bf049bb5788c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "elite.mdl",
 	"preview": true,
 	"readme": false,

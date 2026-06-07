@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092280,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "1f6a05434fcaa19dd7143c29a219f83b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "D:\\Mis Documentos\\Kevin\\Games\\HL\\Skins\\1. EDITAR\\9. Melcochita_c",
 	"preview": true,
 	"readme": false,
